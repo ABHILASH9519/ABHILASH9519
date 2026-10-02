@@ -61,7 +61,7 @@
 
 ### 🛠️ Core Areas
 
-**Software Engineering · Cloud Computing · DevOps · Automation · Distributed Systems · Infrastructure as Code · Kubernetes · System Design · Networking · AI/ML · Platform Engineering**
+**Software Engineering · Cloud & DevOps · Automation · Distributed Systems · Infrastructure as Code · Kubernetes · System Design · Networking · AI/ML · Agentic AI · Platform Engineering · iOS Development**
 
 ---
 
