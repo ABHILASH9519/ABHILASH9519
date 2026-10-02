@@ -17,7 +17,7 @@
 #### 🗄️ Databases & Messaging
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,oracle,redis,kafka&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,kafka&perline=10" />
 </p>
 
 #### 🌐 Backend & Web Development
@@ -29,7 +29,7 @@
 #### 🔄 Version Control, Build & Testing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,azuredevops,sonarqube,maven,gradle,npm,postman,selenium&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium&perline=10" />
 </p>
 
 #### 📊 Monitoring, IaC & Automation
