@@ -47,13 +47,14 @@
 #### 🧰 Development Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,intellij,webstorm,androidstudio,firebase,jupyter,matlab,photoshop&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,firebase,jupyter,matlab,photoshop&perline=10" />
 </p>
 
-#### 🤖 AI & Automation Tools
+#### 🤖 AI & Automation
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=claude,n8n&perline=10" />
+  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
