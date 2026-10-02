@@ -47,7 +47,7 @@
 #### 🧰 Development Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,jetbrains,webstorm,androidstudio,firebase,jupyter,matlab,photoshop&perline=10" />
+  <img src="https://skillicons.dev/icons?i=vscode,intellij,webstorm,androidstudio,firebase,jupyter,matlab,photoshop&perline=10" />
 </p>
 
 #### 🤖 AI & Automation Tools
