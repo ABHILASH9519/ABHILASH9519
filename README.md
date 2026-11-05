@@ -62,7 +62,7 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 
 <img src="assets/cat-01.svg" width="100%" alt="01 Programming Languages" />
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&theme=dark" />
 </p>
 
 <img src="assets/cat-02.svg" width="100%" alt="02 Cloud and DevOps" />
