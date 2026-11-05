@@ -31,23 +31,28 @@ def fetch(user):
 
 
 def parse(page):
-    tips = {m.group(1): m.group(2) for m in re.finditer(
-        r'<tool-tip[^>]*\bfor="([^"]+)"[^>]*>(.*?)</tool-tip>', page, re.S)}
+    """Parse GitHub's contribution calendar, supporting tooltip and aria-label markup."""
+    tips = {m.group(1): html.unescape(re.sub(r"<[^>]+>", "", m.group(2)))
+            for m in re.finditer(r'<tool-tip[^>]*\\bfor="([^"]+)"[^>]*>(.*?)</tool-tip>', page, re.S | re.I)}
     days = {}
-    for m in re.finditer(r"<td\b[^>]*>", page):
+    for m in re.finditer(r"<td\\b[^>]*>", page, re.I):
         tag = m.group(0)
-        d = re.search(r'data-date="(\d{4}-\d{2}-\d{2})"', tag)
-        if not d:
+        date_match = re.search(r'\\bdata-date=["\\'](\\d{4}-\\d{2}-\\d{2})["\\']', tag)
+        if not date_match:
             continue
-        lv = re.search(r'data-level="(\d)"', tag)
-        ident = re.search(r'\bid="([^"]+)"', tag)
-        txt = tips.get(ident.group(1), "") if ident else ""
-        n = re.search(r"(\d[\d,]*)\s+contribution", txt)
-        days[d.group(1)] = (int(lv.group(1)) if lv else 0, int(n.group(1).replace(",", "")) if n else 0)
-    tot = re.search(r"([\d,]+)\s+contributions?\s+in\s+the\s+last\s+year", page)
-    total = int(tot.group(1).replace(",", "")) if tot else sum(c for _, c in days.values())
+        level_match = re.search(r'\\bdata-level=["\\'](\\d)["\\']', tag)
+        id_match = re.search(r'\\bid=["\\']([^"\\']+)["\\']', tag)
+        aria_match = re.search(r'\\baria-label=["\\']([^"\\']*)["\\']', tag, re.I)
+        label = html.unescape(aria_match.group(1)) if aria_match else ""
+        if not label and id_match:
+            label = tips.get(id_match.group(1), "")
+        count_match = re.search(r"([\\d,]+)\\s+contributions?", label, re.I)
+        count = int(count_match.group(1).replace(",", "")) if count_match else 0
+        level = int(level_match.group(1)) if level_match else (1 if count else 0)
+        days[date_match.group(1)] = (level, count)
+    total_match = re.search(r"([\\d,]+)\\s+contributions?\\s+in\\s+the\\s+last\\s+year", page, re.I)
+    total = int(total_match.group(1).replace(",", "")) if total_match else sum(v[1] for v in days.values())
     return days, total
-
 
 def render(days, total, theme="cosmo-blue", note=None):
     bg1, bg2, pri, acc, ice, mut = THEMES[theme]
