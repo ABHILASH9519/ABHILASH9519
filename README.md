@@ -122,8 +122,10 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 </p>
 
 <img src="assets/cat-08.svg" width="100%" alt="08 Operating Systems and Virtualization" />
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian&theme=dark" alt="Linux, Ubuntu, Kali Linux, Arch Linux and Debian" />
+  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" height="48" alt="macOS" title="macOS" />
+  <img src="https://skillicons.dev/icons?i=windows,vmware&theme=dark" alt="Windows and VMware" />
 </p>
 
 <img src="assets/cat-09.svg" width="100%" alt="09 Development Tools and Platforms" />
