@@ -69,30 +69,30 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 <p>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Istio-05070D?style=for-the-badge&logo=istio&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Vault-05070D?style=for-the-badge&logo=vault&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Pulumi-05070D?style=for-the-badge&logo=pulumi&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/SonarQube-05070D?style=for-the-badge&logo=sonarqube&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Trivy-05070D?style=for-the-badge&logo=aquasecurity&logoColor=E2E8F0" />
+<p align="left">
+  <a href="https://argo-cd.readthedocs.io/"><img src="https://cdn.simpleicons.org/argo/E2E8F0" width="48" height="48" alt="Argo CD" title="Argo CD" /></a>
+  <a href="https://helm.sh/"><img src="https://cdn.simpleicons.org/helm/E2E8F0" width="48" height="48" alt="Helm" title="Helm" /></a>
+  <a href="https://istio.io/"><img src="https://cdn.simpleicons.org/istio/E2E8F0" width="48" height="48" alt="Istio" title="Istio" /></a>
+  <a href="https://www.hashicorp.com/products/vault"><img src="https://cdn.simpleicons.org/hashicorpvault/E2E8F0" width="48" height="48" alt="HashiCorp Vault" title="HashiCorp Vault" /></a>
+  <a href="https://www.pulumi.com/"><img src="https://cdn.simpleicons.org/pulumi/E2E8F0" width="48" height="48" alt="Pulumi" title="Pulumi" /></a>
+  <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://cdn.simpleicons.org/sonarqube/E2E8F0" width="48" height="48" alt="SonarQube" title="SonarQube" /></a>
+  <a href="https://trivy.dev/"><img src="https://cdn.simpleicons.org/trivy/FFFFFF" width="48" height="48" alt="Trivy" title="Trivy" /></a>
 </p>
 
 <img src="assets/cat-03.svg" width="100%" alt="03 AI, ML and Agentic AI" />
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/HuggingFace-05070D?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/MCP-05070D?style=for-the-badge&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/MLflow-05070D?style=for-the-badge&logo=mlflow&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vector_DBs-05070D?style=for-the-badge&logoColor=94A3B8" />
+<p align="left">
+  <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/E2E8F0" width="48" height="48" alt="LangChain" title="LangChain" /></a>
+  <a href="https://langchain-ai.github.io/langgraph/"><img src="https://api.iconify.design/lucide/workflow.svg?color=%23E2E8F0" width="48" height="48" alt="LangGraph" title="LangGraph" /></a>
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFFFFF" width="48" height="48" alt="Hugging Face" title="Hugging Face" /></a>
+  <a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/E2E8F0" width="48" height="48" alt="Anthropic Claude" title="Anthropic Claude" /></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://api.iconify.design/lucide/network.svg?color=%23E2E8F0" width="48" height="48" alt="Model Context Protocol" title="Model Context Protocol" /></a>
+  <a href="https://www.anthropic.com/news/contextual-retrieval"><img src="https://api.iconify.design/lucide/brain-circuit.svg?color=%23E2E8F0" width="48" height="48" alt="Retrieval-Augmented Generation" title="Retrieval-Augmented Generation" /></a>
+  <a href="https://mlflow.org/"><img src="https://cdn.simpleicons.org/mlflow/E2E8F0" width="48" height="48" alt="MLflow" title="MLflow" /></a>
+  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" title="Ollama" /></a>
+  <a href="https://www.pinecone.io/"><img src="https://api.iconify.design/lucide/database.svg?color=%23E2E8F0" width="48" height="48" alt="Vector Databases" title="Vector Databases" /></a>
 </p>
 
 <img src="assets/cat-04.svg" width="100%" alt="04 Databases and Messaging" />
@@ -114,11 +114,11 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Loki-05070D?style=for-the-badge&logo=grafana&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/ELK-05070D?style=for-the-badge&logo=elastic&logoColor=E2E8F0" />
+<p align="left">
+  <a href="https://www.datadoghq.com/"><img src="https://cdn.simpleicons.org/datadog/E2E8F0" width="48" height="48" alt="Datadog" title="Datadog" /></a>
+  <a href="https://opentelemetry.io/"><img src="https://cdn.simpleicons.org/opentelemetry/E2E8F0" width="48" height="48" alt="OpenTelemetry" title="OpenTelemetry" /></a>
+  <a href="https://grafana.com/oss/loki/"><img src="https://cdn.simpleicons.org/grafana/E2E8F0" width="48" height="48" alt="Grafana Loki" title="Grafana Loki" /></a>
+  <a href="https://www.elastic.co/"><img src="https://cdn.simpleicons.org/elastic/FFFFFF" width="48" height="48" alt="Elastic Stack" title="Elastic Stack" /></a>
 </p>
 
 <img src="assets/cat-08.svg" width="100%" alt="08 Operating Systems and Virtualization" />
@@ -150,15 +150,15 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0" />
+  <a href="https://ngrok.com/"><img src="https://cdn.simpleicons.org/ngrok/E2E8F0" width="48" height="48" alt="ngrok" title="ngrok" /></a>
+  <a href="https://termius.com/"><img src="https://cdn.simpleicons.org/termius/FFFFFF" width="48" height="48" alt="Termius" title="Termius" /></a>
 </p>
 
 <img src="assets/cat-10.svg" width="100%" alt="10 Collaboration and Project Management" />
-<p>
-  <img src="https://img.shields.io/badge/Atlassian-05070D?style=for-the-badge&logo=atlassian&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/Jira-05070D?style=for-the-badge&logo=jira&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/Slack-05070D?style=for-the-badge&logo=slack&logoColor=E2E8F0" />
+<p align="left">
+  <a href="https://www.atlassian.com/"><img src="https://cdn.simpleicons.org/atlassian/E2E8F0" width="48" height="48" alt="Atlassian" title="Atlassian" /></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.simpleicons.org/jira/E2E8F0" width="48" height="48" alt="Jira" title="Jira" /></a>
+  <a href="https://slack.com/"><img src="https://cdn.simpleicons.org/slack/FFFFFF" width="48" height="48" alt="Slack" title="Slack" /></a>
 </p>
 
 <br/>
