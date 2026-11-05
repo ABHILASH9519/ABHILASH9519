@@ -4,10 +4,10 @@
 
 <img src="assets/marquee.svg" width="100%" alt="AWS, Kubernetes, Terraform, Docker, CI/CD, Platform Engineering, MLOps, Agentic AI, Cybersecurity, Web3, Automation" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=14B8A6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=021A1F&color=14B8A6)
-![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=starship&logoColor=CCFBF1&labelColor=021A1F&color=2DD4BF)
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-021A1F?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=021A1F)
+![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=64748B&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
+![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=starship&logoColor=FFFFFF&labelColor=05070D&color=E2E8F0)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05070D?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=05070D)
 
 </div>
 
@@ -25,10 +25,10 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-021A1F?style=for-the-badge&logo=googlechrome&logoColor=2DD4BF)](https://abhilash9519.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/EMAIL-021A1F?style=for-the-badge&logo=gmail&logoColor=14B8A6)](mailto:Abhilashsharma783@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-021A1F?style=for-the-badge&logo=linkedin&logoColor=14B8A6)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
-[![DEV](https://img.shields.io/badge/DEV.TO-021A1F?style=for-the-badge&logo=devdotto&logoColor=CCFBF1)](https://www.dev.to/abhilash_sharma_ed042f65e)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://abhilash9519.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=64748B)](mailto:Abhilashsharma783@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=64748B)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
+[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://www.dev.to/abhilash_sharma_ed042f65e)
 
 </div>
 
@@ -70,13 +70,13 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/ArgoCD-021A1F?style=for-the-badge&logo=argo&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Helm-021A1F?style=for-the-badge&logo=helm&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Istio-021A1F?style=for-the-badge&logo=istio&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Vault-021A1F?style=for-the-badge&logo=vault&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Pulumi-021A1F?style=for-the-badge&logo=pulumi&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/SonarQube-021A1F?style=for-the-badge&logo=sonarqube&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Trivy-021A1F?style=for-the-badge&logo=aquasecurity&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Istio-05070D?style=for-the-badge&logo=istio&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Vault-05070D?style=for-the-badge&logo=vault&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Pulumi-05070D?style=for-the-badge&logo=pulumi&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/SonarQube-05070D?style=for-the-badge&logo=sonarqube&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Trivy-05070D?style=for-the-badge&logo=aquasecurity&logoColor=E2E8F0" />
 </p>
 
 <img src="assets/cat-03.svg" width="100%" alt="03 AI, ML and Agentic AI" />
@@ -84,15 +84,15 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/LangChain-021A1F?style=for-the-badge&logo=langchain&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/LangGraph-021A1F?style=for-the-badge&logo=langchain&logoColor=14B8A6" />
-  <img src="https://img.shields.io/badge/HuggingFace-021A1F?style=for-the-badge&logo=huggingface&logoColor=CCFBF1" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-021A1F?style=for-the-badge&logo=anthropic&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/MCP-021A1F?style=for-the-badge&logoColor=14B8A6" />
-  <img src="https://img.shields.io/badge/RAG-021A1F?style=for-the-badge&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/MLflow-021A1F?style=for-the-badge&logo=mlflow&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Ollama-021A1F?style=for-the-badge&logo=ollama&logoColor=CCFBF1" />
-  <img src="https://img.shields.io/badge/Vector_DBs-021A1F?style=for-the-badge&logoColor=5EEAD4" />
+  <img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=64748B" />
+  <img src="https://img.shields.io/badge/HuggingFace-05070D?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/MCP-05070D?style=for-the-badge&logoColor=64748B" />
+  <img src="https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/MLflow-05070D?style=for-the-badge&logo=mlflow&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Vector_DBs-05070D?style=for-the-badge&logoColor=94A3B8" />
 </p>
 
 <img src="assets/cat-04.svg" width="100%" alt="04 Databases and Messaging" />
@@ -115,10 +115,10 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Datadog-021A1F?style=for-the-badge&logo=datadog&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-021A1F?style=for-the-badge&logo=opentelemetry&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Loki-021A1F?style=for-the-badge&logo=grafana&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/ELK-021A1F?style=for-the-badge&logo=elastic&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Loki-05070D?style=for-the-badge&logo=grafana&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/ELK-05070D?style=for-the-badge&logo=elastic&logoColor=E2E8F0" />
 </p>
 
 <img src="assets/cat-08.svg" width="100%" alt="08 Operating Systems and Virtualization" />
@@ -131,21 +131,21 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/GoLand-021A1F?style=for-the-badge&logo=goland&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Anaconda-021A1F?style=for-the-badge&logo=anaconda&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Android_Studio-021A1F?style=for-the-badge&logo=androidstudio&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Firebase-021A1F?style=for-the-badge&logo=firebase&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Ollama-021A1F?style=for-the-badge&logo=ollama&logoColor=CCFBF1" />
-  <img src="https://img.shields.io/badge/macOS-021A1F?style=for-the-badge&logo=apple&logoColor=CCFBF1" />
-  <img src="https://img.shields.io/badge/ngrok-021A1F?style=for-the-badge&logo=ngrok&logoColor=2DD4BF" />
-  <img src="https://img.shields.io/badge/Termius-021A1F?style=for-the-badge&logo=termius&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/GoLand-05070D?style=for-the-badge&logo=goland&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Anaconda-05070D?style=for-the-badge&logo=anaconda&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Android_Studio-05070D?style=for-the-badge&logo=androidstudio&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Firebase-05070D?style=for-the-badge&logo=firebase&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/macOS-05070D?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0" />
+  <img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0" />
 </p>
 
 <img src="assets/cat-10.svg" width="100%" alt="10 Collaboration and Project Management" />
 <p>
-  <img src="https://img.shields.io/badge/Atlassian-021A1F?style=for-the-badge&logo=atlassian&logoColor=14B8A6" />
-  <img src="https://img.shields.io/badge/Jira-021A1F?style=for-the-badge&logo=jira&logoColor=14B8A6" />
-  <img src="https://img.shields.io/badge/Slack-021A1F?style=for-the-badge&logo=slack&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/Atlassian-05070D?style=for-the-badge&logo=atlassian&logoColor=64748B" />
+  <img src="https://img.shields.io/badge/Jira-05070D?style=for-the-badge&logo=jira&logoColor=64748B" />
+  <img src="https://img.shields.io/badge/Slack-05070D?style=for-the-badge&logo=slack&logoColor=E2E8F0" />
 </p>
 
 <br/>
@@ -154,11 +154,7 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 
 <img src="assets/sec-stats.svg" width="100%" alt="05 git log --stats" />
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="Profile details" />
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
-
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github_dark" width="49%" alt="Profile details" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHILASH9519&theme=github_dark" width="49%" alt="GitHub stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHILASH9519&theme=github_dark" width="49%" alt="Repos per language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHILASH9519&theme=github_dark" width="49%" alt="Most commit language" />
 
 <br/>
 
@@ -200,7 +196,7 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 
 <br/><br/>
 
-<a href="https://www.buymeacoffee.com/_.tachyons._"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-021A1F?style=for-the-badge&logo=buymeacoffee&logoColor=2DD4BF" alt="Buy Me A Coffee" /></a>
+<a href="https://www.buymeacoffee.com/_.tachyons._"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-05070D?style=for-the-badge&logo=buymeacoffee&logoColor=E2E8F0" alt="Buy Me A Coffee" /></a>
 
 <img src="assets/glass-footer.svg" width="100%" alt="learn by building, solve real problems, ship to production" />
 
