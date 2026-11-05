@@ -1,0 +1,22 @@
+name: Refresh contribution streak
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    paths: ["scripts/contrib_calendar.py", ".github/workflows/contrib-calendar.yml"]
+permissions:
+  contents: write
+jobs:
+  render-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update themed streak from GitHub contribution data
+        run: python scripts/contrib_calendar.py ${{ github.repository_owner }} --theme aurora-teal --out /tmp/contrib-calendar.svg --streak-out assets/streak.svg
+      - name: Commit streak if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/streak.svg
+          git diff --staged --quiet || (git commit -m "chore: refresh contribution streak" && git push)
