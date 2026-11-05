@@ -130,13 +130,18 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/GoLand-05070D?style=for-the-badge&logo=goland&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Anaconda-05070D?style=for-the-badge&logo=anaconda&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Android_Studio-05070D?style=for-the-badge&logo=androidstudio&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Firebase-05070D?style=for-the-badge&logo=firebase&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/macOS-05070D?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
+<p align="center">
+  <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" height="38" alt="GoLand" title="GoLand" /></a>&nbsp;&nbsp;
+  <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="38" alt="Anaconda" title="Anaconda" /></a>&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="38" alt="Android Studio" title="Android Studio" /></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="38" alt="Firebase" title="Firebase" /></a>&nbsp;&nbsp;
+  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="38" alt="Ollama" title="Ollama" /></a>&nbsp;&nbsp;
+  <a href="https://www.apple.com/macos/"><img src="https://cdn.simpleicons.org/apple/FFFFFF" height="38" alt="macOS" title="macOS" /></a>
+</p>
+<p align="center">
+  <sub>GoLand&nbsp; · &nbsp;Anaconda&nbsp; · &nbsp;Android Studio&nbsp; · &nbsp;Firebase&nbsp; · &nbsp;Ollama&nbsp; · &nbsp;macOS</sub>
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0" />
   <img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0" />
 </p>
