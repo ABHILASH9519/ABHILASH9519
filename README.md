@@ -130,7 +130,7 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" />
 </p>
-<p align="center">
+<p align="left">
   <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" title="Anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" title="Android Studio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
