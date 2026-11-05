@@ -127,18 +127,27 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 </p>
 
 <img src="assets/cat-09.svg" width="100%" alt="09 Development Tools and Platforms" />
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" />
-</p>
 <p align="left">
-  <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" title="Anaconda" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width="48" height="48" alt="Android Studio" title="Android Studio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" title="Ollama" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" width="48" height="48" alt="WebStorm" title="WebStorm" /></a>&nbsp;
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Android Studio" title="Android Studio" /></a>&nbsp;
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
+  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="48" height="48" alt="Vim" title="Vim" /></a>&nbsp;
+  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="48" height="48" alt="Neovim" title="Neovim" /></a>&nbsp;
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" title="Figma" /></a>&nbsp;
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB" title="MATLAB" /></a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" title="Photoshop" /></a>&nbsp;
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" /></a>&nbsp;
+  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md&theme=dark" width="48" height="48" alt="Markdown" title="Markdown" /></a>&nbsp;
+  <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" /></a>&nbsp;
+  <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" title="Anaconda" /></a>&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;
+  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" title="Ollama" /></a>&nbsp;
   <a href="https://www.apple.com/macos/"><img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" height="48" alt="macOS" title="macOS" /></a>
 </p>
-<p align="center">
+
+<p align="left">
   <img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0" />
   <img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0" />
 </p>
