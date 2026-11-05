@@ -33,24 +33,24 @@ def fetch(user):
 def parse(page):
     """Parse GitHub's contribution calendar, supporting tooltip and aria-label markup."""
     tips = {m.group(1): html.unescape(re.sub(r"<[^>]+>", "", m.group(2)))
-            for m in re.finditer(r'<tool-tip[^>]*\\bfor="([^"]+)"[^>]*>(.*?)</tool-tip>', page, re.S | re.I)}
+            for m in re.finditer(r'<tool-tip[^>]*\bfor="([^"]+)"[^>]*>(.*?)</tool-tip>', page, re.S | re.I)}
     days = {}
-    for m in re.finditer(r"<td\\b[^>]*>", page, re.I):
+    for m in re.finditer(r"<td\b[^>]*>", page, re.I):
         tag = m.group(0)
-        date_match = re.search(r'\\bdata-date=["\\'](\\d{4}-\\d{2}-\\d{2})["\\']', tag)
+        date_match = re.search(r'\bdata-date=["\'](\d{4}-\d{2}-\d{2})["\']', tag)
         if not date_match:
             continue
-        level_match = re.search(r'\\bdata-level=["\\'](\\d)["\\']', tag)
-        id_match = re.search(r'\\bid=["\\']([^"\\']+)["\\']', tag)
-        aria_match = re.search(r'\\baria-label=["\\']([^"\\']*)["\\']', tag, re.I)
+        level_match = re.search(r'\bdata-level=["\'](\d)["\']', tag)
+        id_match = re.search(r'\bid=["\']([^"\']+)["\']', tag)
+        aria_match = re.search(r'\baria-label=["\']([^"\']*)["\']', tag, re.I)
         label = html.unescape(aria_match.group(1)) if aria_match else ""
         if not label and id_match:
             label = tips.get(id_match.group(1), "")
-        count_match = re.search(r"([\\d,]+)\\s+contributions?", label, re.I)
+        count_match = re.search(r"([\d,]+)\s+contributions?", label, re.I)
         count = int(count_match.group(1).replace(",", "")) if count_match else 0
         level = int(level_match.group(1)) if level_match else (1 if count else 0)
         days[date_match.group(1)] = (level, count)
-    total_match = re.search(r"([\\d,]+)\\s+contributions?\\s+in\\s+the\\s+last\\s+year", page, re.I)
+    total_match = re.search(r"([\d,]+)\s+contributions?\s+in\s+the\s+last\s+year", page, re.I)
     total = int(total_match.group(1).replace(",", "")) if total_match else sum(v[1] for v in days.values())
     return days, total
 
