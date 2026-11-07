@@ -132,6 +132,7 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
 <p align="left">
   <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code" /></a>&nbsp;
   <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" /></a>&nbsp;
+   <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" /></a>&nbsp;
   <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" width="48" height="48" alt="WebStorm" title="WebStorm" /></a>&nbsp;
   <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Android Studio" title="Android Studio" /></a>&nbsp;
   <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
@@ -142,7 +143,6 @@ I started in **Full-Stack Development**, then found my real passion in **Cloud E
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" title="Photoshop" /></a>&nbsp;
   <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" /></a>&nbsp;
   <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md&theme=dark" width="48" height="48" alt="Markdown" title="Markdown" /></a>&nbsp;
-  <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" /></a>&nbsp;
   <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" title="Anaconda" /></a>&nbsp;
   <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;
   <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" title="Ollama" /></a>&nbsp;
