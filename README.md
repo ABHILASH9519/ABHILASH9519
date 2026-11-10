@@ -79,8 +79,8 @@ I'm especially interested in making these projects useful to someone other than 
 ### 03 — AI, ML & Agentic AI
 <div style="white-space: nowrap;">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="32" alt="PyTorch, TensorFlow, FastAPI and Flask" />
-<img src="https://cdn.simpleicons.org/chainlink/E2E8F0" width="32" height="32" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/graphql/E2E8F0" width="32" height="32" alt="LangGraph" />
+<img src="https://cdn.simpleicons.org/langchain/E2E8F0" width="32" height="32" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-05070D?style=flat-square" height="20" alt="LangGraph" />
 <img src="https://cdn.simpleicons.org/huggingface/E2E8F0" width="32" height="32" alt="Hugging Face" />
 <img src="https://cdn.simpleicons.org/anthropic/E2E8F0" width="32" height="32" alt="Anthropic Claude" />
 <img src="https://img.shields.io/badge/MCP-05070D?style=flat-square&logoColor=E2E8F0" height="20" alt="Model Context Protocol" />
