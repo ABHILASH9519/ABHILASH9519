@@ -48,7 +48,13 @@ I'm especially interested in making these projects useful to someone other than 
 
 ## 03 / SKILL RADAR
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHILASH9519&bg_color=05070D&color=CBD5E1&line=94A3B8&point=E2E8F0&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+<div align="center">
+
+<img src="assets/sec-radar.svg" width="100%" alt="Skill radar section header" />
+
+<img src="assets/skill-matrix.svg" width="100%" alt="Skill radar showing Cloud and DevOps 90%, Tools 85%, Automation 85%, Backend Development 80%, AI and ML 78%, Cybersecurity 60%, and Web3 55%" />
+
+</div>
 
 ## 04 / TECHNICAL STACK
 
