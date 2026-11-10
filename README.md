@@ -1,216 +1,78 @@
-<div align="center">
+# Hey, I'm Abhilash 👋
 
-<img src="assets/glass-header.svg" width="100%" alt="Abhilash Sharma - SWE, DevOps, Agentic AI" />
+I'm a software engineering student interested in **Cloud & DevOps, platform engineering, automation, and agentic AI**.
 
-<img src="assets/marquee.svg" width="100%" alt="AWS, Kubernetes, Terraform, Docker, CI/CD, Platform Engineering, MLOps, Agentic AI, Cybersecurity, Web3, Automation" />
+I started out building full-stack applications. Over time, I became more interested in what happens behind the application: how services are deployed, how infrastructure is managed, how systems recover when something breaks, and how repetitive work can be automated.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=64748B&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
-![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=starship&logoColor=FFFFFF&labelColor=05070D&color=E2E8F0)
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05070D?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=05070D)
+I learn by building, testing, breaking things, and improving them. Most of the repositories here are works in progress, and I try to document what is implemented versus what I'm still exploring.
 
-</div>
+[Portfolio](https://abhilash9519.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/abhilash-sharma-a72781290/) · [DEV Community](https://dev.to/abhilash_sharma_ed042f65e) · [Email](mailto:Abhilashsharma783@gmail.com)
 
-<br/>
+---
 
-<div align="center">
+## What I'm working on
 
-<img src="assets/sec-whoami.svg" width="100%" alt="01 whoami" />
+| Project | What it is |
+|---|---|
+| [CloudSentinels](https://github.com/ABHILASH9519/cloudsentinels) | Exploring cloud incident handling, event-driven automation and operational visibility with AWS. The remediation workflow is being developed incrementally; live cluster remediation is not yet enabled. |
+| [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench) | A computer-vision project for registering and comparing lunar images from different missions and imaging conditions. |
+| [Sahaara](https://github.com/ABHILASH9519/sahaara) | A mobile-app project focused on turning a product idea into usable Android and iOS flows. |
+| [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator) | Experiments with automating build and delivery workflows. |
 
-<img src="assets/glass-about.svg" width="100%" alt="About Abhilash: role, location, experience, focus, learning, philosophy" />
+I'm especially interested in making these projects useful to someone other than me: clear setup steps, reproducible tests, sensible issues, and documentation that matches the actual code.
 
-</div>
+## Areas I'm learning and using
 
-I started in **Full-Stack Development**, then found my real passion in **Cloud Engineering, DevOps, Infrastructure Automation and scalable systems**. Today I design, automate and ship reliable, production-oriented solutions, increasingly powered by **Generative AI and Agentic workflows**.
+- **Cloud & infrastructure:** AWS, Azure, Linux, Terraform, Ansible
+- **Containers & delivery:** Docker, Kubernetes, GitHub Actions, Jenkins
+- **Automation & operations:** Bash, Python, event-driven workflows, monitoring
+- **Software development:** JavaScript, TypeScript, Go, Python, React, Node.js
+- **AI engineering:** LLM applications, RAG, agent workflows and tool integrations
+- **Data & storage:** PostgreSQL, MongoDB, Redis
 
-<div align="center">
+I don't consider a tool mastered just because I've tried it. I'm working on getting better at the fundamentals and using each technology where it makes sense.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://abhilash9519.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=64748B)](mailto:Abhilashsharma783@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=64748B)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
-[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://www.dev.to/abhilash_sharma_ed042f65e)
+## GitHub activity
 
-</div>
+The four panels below use the same width so commits, reviews, issues and pull requests get equal space. The numbers are supplied by GitHub's activity data; they aren't manually adjusted.
 
-<br/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Commits</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" width="100%" alt="GitHub commit and repository statistics"/>
+    </td>
+    <td width="50%" align="center">
+      <strong>Contribution activity</strong><br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github" width="100%" alt="GitHub contribution activity"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Pull requests & reviews</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_title=true&hide=stars,commits,prs,issues,contributions&theme=transparent&hide_border=true" width="100%" alt="GitHub profile summary"/>
+    </td>
+    <td width="50%" align="center">
+      <strong>Languages</strong><br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&theme=transparent&hide_border=true" width="100%" alt="Most used repository languages"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
+[View my contribution history](https://github.com/ABHILASH9519?tab=overview&from=2026-01-01&to=2026-12-31) · [Browse repositories](https://github.com/ABHILASH9519?tab=repositories)
 
-<img src="assets/sec-radar.svg" width="100%" alt="02 skill_radar --live" />
+## Tools I reach for
 
-<img src="assets/glass-radar.svg" width="100%" alt="Currently building: Generative AI, LLMs, Agentic Workflows. Exploring: RAG, AI Agents, Production AI. Learning: MultiCloud App Development" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/sec-skillmap.svg" width="100%" alt="03 skill_matrix --scan" />
-
-<img src="assets/skill-matrix.svg" width="100%" alt="Skill matrix radar: Cloud and DevOps 90, Tools 85, Automation 85, Cybersecurity 60, Backend Development 80, Web3 55, AI and ML 78" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/sec-techstack.svg" width="100%" alt="04 cat techstack.json" />
-
-</div>
-
-<img src="assets/cat-01.svg" width="100%" alt="01 Programming Languages" />
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,linux,githubactions,jenkins,go,python,js,ts,react,nodejs,postgres,mongodb,prometheus,grafana&perline=9" alt="Cloud, DevOps and software engineering tools"/>
 </p>
 
-<img src="assets/cat-02.svg" width="100%" alt="02 Cloud and DevOps" />
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Istio-05070D?style=for-the-badge&logo=istio&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Vault-05070D?style=for-the-badge&logo=vault&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Pulumi-05070D?style=for-the-badge&logo=pulumi&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/SonarQube-05070D?style=for-the-badge&logo=sonarqube&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Trivy-05070D?style=for-the-badge&logo=aquasecurity&logoColor=E2E8F0" />
-</p>
+## Open source
 
-<img src="assets/cat-03.svg" width="100%" alt="03 AI, ML and Agentic AI" />
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/HuggingFace-05070D?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/MCP-05070D?style=for-the-badge&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/MLflow-05070D?style=for-the-badge&logo=mlflow&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Vector_DBs-05070D?style=for-the-badge&logoColor=94A3B8" />
-</p>
+I'm interested in collaborating on practical projects around cloud infrastructure, developer tooling, automation, observability and beginner-friendly engineering documentation.
 
-<img src="assets/cat-04.svg" width="100%" alt="04 Databases and Messaging" />
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark" />
-</p>
+If you find a bug, have an idea, or want to improve something here, please open an issue or a pull request. I appreciate specific feedback and constructive code reviews.
 
-<img src="assets/cat-05.svg" width="100%" alt="05 Backend and Web Development" />
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark" />
-</p>
+---
 
-<img src="assets/cat-06.svg" width="100%" alt="06 Version Control, Build and Testing" />
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark" />
-</p>
-
-<img src="assets/cat-07.svg" width="100%" alt="07 Monitoring, IaC and Automation" />
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Loki-05070D?style=for-the-badge&logo=grafana&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/ELK-05070D?style=for-the-badge&logo=elastic&logoColor=E2E8F0" />
-</p>
-
-<img src="assets/cat-08.svg" width="100%" alt="08 Operating Systems and Virtualization" />
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian&theme=dark" alt="Linux, Ubuntu, Kali Linux, Arch Linux and Debian" />
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" height="48" alt="macOS" title="macOS" />
-  <img src="https://skillicons.dev/icons?i=windows,vmware&theme=dark" alt="Windows and VMware" />
-</p>
-
-<img src="assets/cat-09.svg" width="100%" alt="09 Development Tools and Platforms" />
-<p align="left">
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" title="VS Code" /></a>&nbsp;
-  <a href="https://www.jetbrains.com/idea/"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" /></a>&nbsp;
-   <a href="https://www.jetbrains.com/go/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" /></a>&nbsp;
-  <a href="https://www.jetbrains.com/webstorm/"><img src="https://skillicons.dev/icons?i=webstorm&theme=dark" width="48" height="48" alt="WebStorm" title="WebStorm" /></a>&nbsp;
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Android Studio" title="Android Studio" /></a>&nbsp;
-  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" height="48" alt="Flutter" title="Flutter" /></a>&nbsp;
-  <a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim&theme=dark" width="48" height="48" alt="Vim" title="Vim" /></a>&nbsp;
-  <a href="https://neovim.io/"><img src="https://skillicons.dev/icons?i=neovim&theme=dark" width="48" height="48" alt="Neovim" title="Neovim" /></a>&nbsp;
-  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" title="Figma" /></a>&nbsp;
-  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB" title="MATLAB" /></a>&nbsp;
-  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" title="Photoshop" /></a>&nbsp;
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" title="Postman" /></a>&nbsp;
-  <a href="https://www.markdownguide.org/"><img src="https://skillicons.dev/icons?i=md&theme=dark" width="48" height="48" alt="Markdown" title="Markdown" /></a>&nbsp;
-  <a href="https://www.anaconda.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="48" height="48" alt="Anaconda" title="Anaconda" /></a>&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="48" height="48" alt="Firebase" title="Firebase" /></a>&nbsp;
-  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="48" height="48" alt="Ollama" title="Ollama" /></a>&nbsp;
-  <a href="https://www.apple.com/macos/"><img src="https://cdn.simpleicons.org/apple/FFFFFF" width="48" height="48" alt="macOS" title="macOS" /></a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0" />
-  <img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0" />
-</p>
-
-<img src="assets/cat-10.svg" width="100%" alt="10 Collaboration and Project Management" />
-<p align="left">
-  <img src="https://img.shields.io/badge/Atlassian-05070D?style=for-the-badge&logo=atlassian&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/Jira-05070D?style=for-the-badge&logo=jira&logoColor=64748B" />
-  <img src="https://img.shields.io/badge/Slack-05070D?style=for-the-badge&logo=slack&logoColor=E2E8F0" />
-</p>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/sec-stats.svg" width="100%" alt="05 git log --stats" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github_dark" width="49%" alt="Profile details" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABHILASH9519&theme=github_dark" width="49%" alt="GitHub stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABHILASH9519&theme=github_dark" width="49%" alt="Repos per language" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ABHILASH9519&theme=github_dark" width="49%" alt="Most commit language" />
-
-<br/>
-
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/sec-streak.svg" width="100%" alt="06 streak" />
-
-<img src="assets/streak.svg" width="100%" alt="Current and longest contribution streak" />
-
-<br/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/sec-quote.svg" width="100%" alt="07 ./quote" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="assets/sec-connect.svg" width="100%" alt="09 ./connect" />
-
-<a href="https://www.github.com/ABHILASH9519"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40"/></a>&nbsp;&nbsp;
-<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/></a>&nbsp;&nbsp;
-<a href="https://www.dev.to/abhilash_sharma_ed042f65e"><img src="https://skillicons.dev/icons?i=devto&theme=dark" height="40"/></a>
-
-<br/><br/>
-
-<a href="https://www.buymeacoffee.com/_.tachyons._"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-05070D?style=for-the-badge&logo=buymeacoffee&logoColor=E2E8F0" alt="Buy Me A Coffee" /></a>
-
-<img src="assets/glass-footer.svg" width="100%" alt="learn by building, solve real problems, ship to production" />
-
-</div>
+*Still learning. Still shipping. Trying to make each project a little more useful than the last.*
