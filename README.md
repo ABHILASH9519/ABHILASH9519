@@ -165,8 +165,6 @@ Experiments with automating build and delivery workflows.
 <a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/webstorm/webstorm.svg" width="50" height="50" alt="WebStorm" /></a>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=10&size=50" alt="VS Code, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
 <img src="https://cdn.simpleicons.org/ngrok/white" width="50" height="50" alt="ngrok" />
-
-<sub>JetBrains product icons are trademarks of JetBrains s.r.o. · <a href="https://www.jetbrains.com/company/brand/">Brand guidelines</a></sub>
 </details>
 
 </details>
