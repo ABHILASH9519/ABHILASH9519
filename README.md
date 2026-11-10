@@ -61,12 +61,12 @@ I'm especially interested in making these projects useful to someone other than 
 <!-- Each category is a single compact horizontal icon row. -->
 ### 01 — Programming Languages
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark&perline=13" height="20" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark&perline=13" height="32" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell" />
 </div>
 
 ### 02 — Cloud, DevOps & Platforms
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=14" height="20" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=14" height="26" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify" />
 <img src="https://img.shields.io/badge/ArgoCD-05070D?style=flat-square&logo=argo&logoColor=E2E8F0" height="16" alt="ArgoCD" />
 <img src="https://img.shields.io/badge/Helm-05070D?style=flat-square&logo=helm&logoColor=E2E8F0" height="16" alt="Helm" />
 <img src="https://img.shields.io/badge/Istio-05070D?style=flat-square&logo=istio&logoColor=E2E8F0" height="16" alt="Istio" />
@@ -78,7 +78,7 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 03 — AI, ML & Agentic AI
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="20" alt="PyTorch, TensorFlow, FastAPI and Flask" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="26" alt="PyTorch, TensorFlow, FastAPI and Flask" />
 <img src="https://img.shields.io/badge/LangChain-05070D?style=flat-square&logo=chainlink&logoColor=E2E8F0" height="16" alt="LangChain" />
 <img src="https://img.shields.io/badge/LangGraph-05070D?style=flat-square&logo=graphql&logoColor=E2E8F0" height="16" alt="LangGraph" />
 <img src="https://img.shields.io/badge/Hugging_Face-05070D?style=flat-square&logo=huggingface&logoColor=E2E8F0" height="16" alt="Hugging Face" />
@@ -96,22 +96,22 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 04 — Databases & Messaging
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark&perline=10" height="20" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch and RabbitMQ" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark&perline=10" height="32" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch and RabbitMQ" />
 </div>
 
 ### 05 — Backend, Frameworks & Web Development
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark&perline=15" height="20" alt="Node.js, Express, FastAPI, Django, Spring, GraphQL, React, Next.js, Angular, Vue, Vite, Tailwind, Bootstrap, HTML and CSS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark&perline=15" height="32" alt="Node.js, Express, FastAPI, Django, Spring, GraphQL, React, Next.js, Angular, Vue, Vite, Tailwind, Bootstrap, HTML and CSS" />
 </div>
 
 ### 06 — Version Control, Build & Testing
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark&perline=10" height="20" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest and Pytest" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark&perline=10" height="32" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest and Pytest" />
 </div>
 
 ### 07 — Monitoring, Infrastructure as Code & Automation
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark&perline=5" height="20" alt="Prometheus, Grafana, Terraform, Ansible and Bash" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark&perline=5" height="26" alt="Prometheus, Grafana, Terraform, Ansible and Bash" />
 <img src="https://img.shields.io/badge/Datadog-05070D?style=flat-square&logo=datadog&logoColor=E2E8F0" height="16" alt="Datadog" />
 <img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=flat-square&logo=opentelemetry&logoColor=E2E8F0" height="16" alt="OpenTelemetry" />
 <img src="https://img.shields.io/badge/Loki-05070D?style=flat-square&logo=grafana&logoColor=E2E8F0" height="16" alt="Loki" />
@@ -120,12 +120,12 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 08 — Operating Systems & Virtualization
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark&perline=8" height="20" alt="Linux, Ubuntu, Kali Linux, Arch, Debian, macOS, Windows and VMware" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark&perline=8" height="32" alt="Linux, Ubuntu, Kali Linux, Arch, Debian, macOS, Windows and VMware" />
 </div>
 
 ### 09 — Development Tools & Platforms
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark&perline=12" height="20" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark&perline=12" height="26" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown" />
 <img src="https://img.shields.io/badge/GoLand-05070D?style=flat-square&logo=goland&logoColor=E2E8F0" height="16" alt="GoLand" />
 <img src="https://img.shields.io/badge/Anaconda-05070D?style=flat-square&logo=anaconda&logoColor=E2E8F0" height="16" alt="Anaconda" />
 <img src="https://img.shields.io/badge/Firebase-05070D?style=flat-square&logo=firebase&logoColor=E2E8F0" height="16" alt="Firebase" />
@@ -136,9 +136,9 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 10 — Collaboration & Project Management
 <div style="white-space: nowrap;">
-<img src="https://img.shields.io/badge/Atlassian-05070D?style=flat-square&logo=atlassian&logoColor=E2E8F0" height="16" alt="Atlassian" />
-<img src="https://img.shields.io/badge/Jira-05070D?style=flat-square&logo=jira&logoColor=E2E8F0" height="16" alt="Jira" />
-<img src="https://img.shields.io/badge/Slack-05070D?style=flat-square&logo=slack&logoColor=E2E8F0" height="16" alt="Slack" />
+<img src="https://img.shields.io/badge/Atlassian-05070D?style=flat-square&logo=atlassian&logoColor=E2E8F0" height="20" alt="Atlassian" />
+<img src="https://img.shields.io/badge/Jira-05070D?style=flat-square&logo=jira&logoColor=E2E8F0" height="20" alt="Jira" />
+<img src="https://img.shields.io/badge/Slack-05070D?style=flat-square&logo=slack&logoColor=E2E8F0" height="20" alt="Slack" />
 </div>
 
 ## 05 / GITHUB ANALYTICS
