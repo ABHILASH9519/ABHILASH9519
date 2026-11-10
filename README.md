@@ -160,11 +160,11 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🧰 Development Tools</b></summary>
 <br/>
-<a href="https://www.jetbrains.com/go/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/goland/goland.svg" width="40" height="40" alt="GoLand" /></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="40" height="40" alt="IntelliJ IDEA" /></a>
-<a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/webstorm/webstorm.svg" width="40" height="40" alt="WebStorm" /></a>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=10&size=40" alt="VS Code, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
-<img src="https://cdn.simpleicons.org/ngrok/white" width="40" height="40" alt="ngrok" />
+<a href="https://www.jetbrains.com/go/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/goland/goland.svg" width="50" height="50" alt="GoLand" /></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA" /></a>
+<a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/webstorm/webstorm.svg" width="50" height="50" alt="WebStorm" /></a>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=10&size=50" alt="VS Code, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
+<img src="https://cdn.simpleicons.org/ngrok/white" width="50" height="50" alt="ngrok" />
 
 <sub>JetBrains product icons are trademarks of JetBrains s.r.o. · <a href="https://www.jetbrains.com/company/brand/">Brand guidelines</a></sub>
 </details>
