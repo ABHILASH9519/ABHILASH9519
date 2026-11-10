@@ -66,31 +66,31 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 02 — Cloud, DevOps & Platforms
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=14" height="26" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify" />
-<img src="https://img.shields.io/badge/ArgoCD-05070D?style=flat-square&logo=argo&logoColor=E2E8F0" height="16" alt="ArgoCD" />
-<img src="https://img.shields.io/badge/Helm-05070D?style=flat-square&logo=helm&logoColor=E2E8F0" height="16" alt="Helm" />
-<img src="https://img.shields.io/badge/Istio-05070D?style=flat-square&logo=istio&logoColor=E2E8F0" height="16" alt="Istio" />
-<img src="https://img.shields.io/badge/Vault-05070D?style=flat-square&logo=vault&logoColor=E2E8F0" height="16" alt="Vault" />
-<img src="https://img.shields.io/badge/Pulumi-05070D?style=flat-square&logo=pulumi&logoColor=E2E8F0" height="16" alt="Pulumi" />
-<img src="https://img.shields.io/badge/SonarQube-05070D?style=flat-square&logo=sonarqube&logoColor=E2E8F0" height="16" alt="SonarQube" />
-<img src="https://img.shields.io/badge/Trivy-05070D?style=flat-square&logo=trivy&logoColor=E2E8F0" height="16" alt="Trivy" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=14" height="32" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify" />
+<img src="https://cdn.simpleicons.org/argo/E2E8F0" width="32" height="32" alt="ArgoCD" />
+<img src="https://cdn.simpleicons.org/helm/E2E8F0" width="32" height="32" alt="Helm" />
+<img src="https://cdn.simpleicons.org/istio/E2E8F0" width="32" height="32" alt="Istio" />
+<img src="https://cdn.simpleicons.org/vault/E2E8F0" width="32" height="32" alt="Vault" />
+<img src="https://cdn.simpleicons.org/pulumi/E2E8F0" width="32" height="32" alt="Pulumi" />
+<img src="https://cdn.simpleicons.org/sonarqube/E2E8F0" width="32" height="32" alt="SonarQube" />
+<img src="https://cdn.simpleicons.org/trivy/E2E8F0" width="32" height="32" alt="Trivy" />
 </div>
 
 ### 03 — AI, ML & Agentic AI
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="26" alt="PyTorch, TensorFlow, FastAPI and Flask" />
-<img src="https://img.shields.io/badge/LangChain-05070D?style=flat-square&logo=chainlink&logoColor=E2E8F0" height="16" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-05070D?style=flat-square&logo=graphql&logoColor=E2E8F0" height="16" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Hugging_Face-05070D?style=flat-square&logo=huggingface&logoColor=E2E8F0" height="16" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Claude-05070D?style=flat-square&logo=anthropic&logoColor=E2E8F0" height="16" alt="Anthropic Claude" />
-<img src="https://img.shields.io/badge/MCP-05070D?style=flat-square&logoColor=E2E8F0" height="16" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/RAG-05070D?style=flat-square&logoColor=E2E8F0" height="16" alt="Retrieval Augmented Generation" />
-<img src="https://img.shields.io/badge/MLflow-05070D?style=flat-square&logo=mlflow&logoColor=E2E8F0" height="16" alt="MLflow" />
-<img src="https://img.shields.io/badge/Ollama-05070D?style=flat-square&logo=ollama&logoColor=E2E8F0" height="16" alt="Ollama" />
-<img src="https://img.shields.io/badge/Vector_DBs-05070D?style=flat-square&logoColor=94A3B8" height="16" alt="Vector databases" />
-<img src="https://img.shields.io/badge/OpenAI-05070D?style=flat-square&logo=openai&logoColor=E2E8F0" height="16" alt="OpenAI" />
-<img src="https://img.shields.io/badge/Gemini-05070D?style=flat-square&logo=googlegemini&logoColor=E2E8F0" height="16" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/AWS_Bedrock-05070D?style=flat-square&logo=amazonaws&logoColor=E2E8F0" height="16" alt="AWS Bedrock" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="32" alt="PyTorch, TensorFlow, FastAPI and Flask" />
+<img src="https://cdn.simpleicons.org/chainlink/E2E8F0" width="32" height="32" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/graphql/E2E8F0" width="32" height="32" alt="LangGraph" />
+<img src="https://cdn.simpleicons.org/huggingface/E2E8F0" width="32" height="32" alt="Hugging Face" />
+<img src="https://cdn.simpleicons.org/anthropic/E2E8F0" width="32" height="32" alt="Anthropic Claude" />
+<img src="https://img.shields.io/badge/MCP-05070D?style=flat-square&logoColor=E2E8F0" height="20" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/RAG-05070D?style=flat-square&logoColor=E2E8F0" height="20" alt="Retrieval Augmented Generation" />
+<img src="https://cdn.simpleicons.org/mlflow/E2E8F0" width="32" height="32" alt="MLflow" />
+<img src="https://cdn.simpleicons.org/ollama/E2E8F0" width="32" height="32" alt="Ollama" />
+<img src="https://img.shields.io/badge/Vector_DBs-05070D?style=flat-square&logoColor=94A3B8" height="20" alt="Vector databases" />
+<img src="https://cdn.simpleicons.org/openai/E2E8F0" width="32" height="32" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/googlegemini/E2E8F0" width="32" height="32" alt="Google Gemini" />
+<img src="https://cdn.simpleicons.org/amazonaws/E2E8F0" width="32" height="32" alt="AWS Bedrock" />
 </div>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 
@@ -111,11 +111,11 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 07 — Monitoring, Infrastructure as Code & Automation
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark&perline=5" height="26" alt="Prometheus, Grafana, Terraform, Ansible and Bash" />
-<img src="https://img.shields.io/badge/Datadog-05070D?style=flat-square&logo=datadog&logoColor=E2E8F0" height="16" alt="Datadog" />
-<img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=flat-square&logo=opentelemetry&logoColor=E2E8F0" height="16" alt="OpenTelemetry" />
-<img src="https://img.shields.io/badge/Loki-05070D?style=flat-square&logo=grafana&logoColor=E2E8F0" height="16" alt="Loki" />
-<img src="https://img.shields.io/badge/ELK-05070D?style=flat-square&logo=elastic&logoColor=E2E8F0" height="16" alt="Elastic Stack" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark&perline=5" height="32" alt="Prometheus, Grafana, Terraform, Ansible and Bash" />
+<img src="https://cdn.simpleicons.org/datadog/E2E8F0" width="32" height="32" alt="Datadog" />
+<img src="https://cdn.simpleicons.org/opentelemetry/E2E8F0" width="32" height="32" alt="OpenTelemetry" />
+<img src="https://cdn.simpleicons.org/grafana/E2E8F0" width="32" height="32" alt="Loki" />
+<img src="https://cdn.simpleicons.org/elastic/E2E8F0" width="32" height="32" alt="Elastic Stack" />
 </div>
 
 ### 08 — Operating Systems & Virtualization
@@ -125,20 +125,20 @@ I'm especially interested in making these projects useful to someone other than 
 
 ### 09 — Development Tools & Platforms
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark&perline=12" height="26" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown" />
-<img src="https://img.shields.io/badge/GoLand-05070D?style=flat-square&logo=goland&logoColor=E2E8F0" height="16" alt="GoLand" />
-<img src="https://img.shields.io/badge/Anaconda-05070D?style=flat-square&logo=anaconda&logoColor=E2E8F0" height="16" alt="Anaconda" />
-<img src="https://img.shields.io/badge/Firebase-05070D?style=flat-square&logo=firebase&logoColor=E2E8F0" height="16" alt="Firebase" />
-<img src="https://img.shields.io/badge/Ollama-05070D?style=flat-square&logo=ollama&logoColor=E2E8F0" height="16" alt="Ollama" />
-<img src="https://img.shields.io/badge/ngrok-05070D?style=flat-square&logo=ngrok&logoColor=E2E8F0" height="16" alt="ngrok" />
-<img src="https://img.shields.io/badge/Termius-05070D?style=flat-square&logoColor=E2E8F0" height="16" alt="Termius" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark&perline=12" height="32" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown" />
+<img src="https://cdn.simpleicons.org/goland/E2E8F0" width="32" height="32" alt="GoLand" />
+<img src="https://cdn.simpleicons.org/anaconda/E2E8F0" width="32" height="32" alt="Anaconda" />
+<img src="https://cdn.simpleicons.org/firebase/E2E8F0" width="32" height="32" alt="Firebase" />
+<img src="https://cdn.simpleicons.org/ollama/E2E8F0" width="32" height="32" alt="Ollama" />
+<img src="https://cdn.simpleicons.org/ngrok/E2E8F0" width="32" height="32" alt="ngrok" />
+<img src="https://img.shields.io/badge/Termius-05070D?style=flat-square&logoColor=E2E8F0" height="20" alt="Termius" />
 </div>
 
 ### 10 — Collaboration & Project Management
 <div style="white-space: nowrap;">
-<img src="https://img.shields.io/badge/Atlassian-05070D?style=flat-square&logo=atlassian&logoColor=E2E8F0" height="20" alt="Atlassian" />
-<img src="https://img.shields.io/badge/Jira-05070D?style=flat-square&logo=jira&logoColor=E2E8F0" height="20" alt="Jira" />
-<img src="https://img.shields.io/badge/Slack-05070D?style=flat-square&logo=slack&logoColor=E2E8F0" height="20" alt="Slack" />
+<img src="https://cdn.simpleicons.org/atlassian/E2E8F0" width="32" height="32" alt="Atlassian" />
+<img src="https://cdn.simpleicons.org/jira/E2E8F0" width="32" height="32" alt="Jira" />
+<img src="https://cdn.simpleicons.org/slack/E2E8F0" width="32" height="32" alt="Slack" />
 </div>
 
 ## 05 / GITHUB ANALYTICS
