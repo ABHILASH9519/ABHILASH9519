@@ -34,32 +34,32 @@ I don't consider a tool mastered just because I've tried it. I'm working on gett
 
 ## GitHub activity
 
-The four panels below use the same width so commits, reviews, issues and pull requests get equal space. The numbers are supplied by GitHub's activity data; they aren't manually adjusted.
+I wanted this section to be easy to scan, so the four activity areas have the same space. Each panel opens the corresponding GitHub activity view; GitHub remains the source of truth for the counts and contribution rules.
 
 <table>
   <tr>
-    <td width="50%" align="center">
-      <strong>Commits</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" width="100%" alt="GitHub commit and repository statistics"/>
+    <td width="50%" align="center" valign="top">
+      <h3>Commits</h3>
+      <a href="https://github.com/ABHILASH9519?tab=overview"><img src="https://img.shields.io/badge/Explore-Commit%20activity-24292f?style=for-the-badge&logo=github" alt="Explore commit activity"/></a>
     </td>
-    <td width="50%" align="center">
-      <strong>Contribution activity</strong><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github" width="100%" alt="GitHub contribution activity"/>
+    <td width="50%" align="center" valign="top">
+      <h3>Code reviews</h3>
+      <a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3AABHILASH9519"><img src="https://img.shields.io/badge/Explore-Code%20reviews-24292f?style=for-the-badge&logo=github" alt="Explore code reviews"/></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <strong>Pull requests & reviews</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_title=true&hide=stars,commits,prs,issues,contributions&theme=transparent&hide_border=true" width="100%" alt="GitHub profile summary"/>
+    <td width="50%" align="center" valign="top">
+      <h3>Issues</h3>
+      <a href="https://github.com/issues?q=is%3Aissue+author%3AABHILASH9519"><img src="https://img.shields.io/badge/Explore-Issues-24292f?style=for-the-badge&logo=github" alt="Explore issues"/></a>
     </td>
-    <td width="50%" align="center">
-      <strong>Languages</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&theme=transparent&hide_border=true" width="100%" alt="Most used repository languages"/>
+    <td width="50%" align="center" valign="top">
+      <h3>Pull requests</h3>
+      <a href="https://github.com/pulls?q=is%3Apr+author%3AABHILASH9519"><img src="https://img.shields.io/badge/Explore-Pull%20requests-24292f?style=for-the-badge&logo=github" alt="Explore pull requests"/></a>
     </td>
   </tr>
 </table>
 
-[View my contribution history](https://github.com/ABHILASH9519?tab=overview&from=2026-01-01&to=2026-12-31) · [Browse repositories](https://github.com/ABHILASH9519?tab=repositories)
+[View my contribution graph](https://github.com/ABHILASH9519) · [Browse repositories](https://github.com/ABHILASH9519?tab=repositories)
 
 ## Tools I reach for
 
