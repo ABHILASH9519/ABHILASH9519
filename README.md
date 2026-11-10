@@ -97,7 +97,9 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&perline=13" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash, PowerShell" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&perline=10" alt="C, C++, Go, Python, Java, Swift, TypeScript, JavaScript, Bash, PowerShell" />
+</details>
+
 </details>
 
 <details open>
@@ -109,14 +111,16 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🤖 AI, ML & Agentic AI</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&perline=4" alt="PyTorch, TensorFlow, FastAPI, Flask" />
-<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain&logoColor=4ADE80" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Hugging_Face-0F172A?style=for-the-badge&logo=huggingface&logoColor=FBBF24" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/Anthropic-0F172A?style=for-the-badge&logo=anthropic&logoColor=F472B6" alt="Anthropic"/>
-<img src="https://img.shields.io/badge/Ollama-0F172A?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE" alt="OpenAI"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="PyTorch, TensorFlow" />
+<img src="https://cdn.simpleicons.org/langchain" width="32" height="32" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/huggingface" width="32" height="32" alt="Hugging Face" />
+<img src="https://cdn.simpleicons.org/anthropic" width="32" height="32" alt="Anthropic" />
+<img src="https://cdn.simpleicons.org/ollama" width="32" height="32" alt="Ollama" />
+<img src="https://cdn.simpleicons.org/openai" width="32" height="32" alt="OpenAI" />
 <br/>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
+</details>
+
 </details>
 
 <details open>
@@ -128,7 +132,16 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🌐 Backend, Frameworks & Web</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&perline=15" alt="Node.js, Express, FastAPI, Django, Spring, GraphQL, React, Next.js, Angular, Vue, Vite, Tailwind, Bootstrap, HTML, CSS" />
+<b>Core backend</b><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3" alt="Node.js, Express, FastAPI" />
+<br/>
+<b>Good to have</b><br/>
+<img src="https://skillicons.dev/icons?i=django,spring&perline=2" alt="Django, Spring" />
+<br/>
+<b>Frontend</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=6" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
+</details>
+
 </details>
 
 <details open>
@@ -155,7 +168,10 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🧰 Development Tools</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,goland,webstorm,androidstudio,Anaconda,vim,neovim,ngrok,figma,matlab,ps,postman,md&perline=12" alt="VS Code, IntelliJ, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,goland,webstorm,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=13" alt="VS Code, IntelliJ IDEA, GoLand, WebStorm, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
+<img src="https://cdn.simpleicons.org/ngrok" width="32" height="32" alt="ngrok" />
+</details>
+
 </details>
 
 <details open>
