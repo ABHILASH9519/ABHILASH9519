@@ -97,7 +97,7 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&perline=10" alt="C, C++, Go, Python, Java, Swift, TypeScript, JavaScript, Bash, PowerShell" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&perline=10&size=32" alt="C, C++, Go, Python, Java, Swift, TypeScript, JavaScript, Bash, PowerShell" />
 </details>
 
 </details>
@@ -105,18 +105,18 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>☁️ Cloud, DevOps & Platforms</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&perline=14" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel, Netlify" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&perline=14&size=32" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel, Netlify" />
 </details>
 
 <details open>
 <summary><b>🤖 AI, ML & Agentic AI</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2" alt="PyTorch, TensorFlow" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2&size=32" alt="PyTorch, TensorFlow" />
 <img src="https://cdn.simpleicons.org/langchain" width="32" height="32" alt="LangChain" />
 <img src="https://cdn.simpleicons.org/huggingface" width="32" height="32" alt="Hugging Face" />
 <img src="https://cdn.simpleicons.org/anthropic" width="32" height="32" alt="Anthropic" />
 <img src="https://cdn.simpleicons.org/ollama" width="32" height="32" alt="Ollama" />
-<img src="https://cdn.simpleicons.org/openai" width="32" height="32" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/openai/white" width="32" height="32" alt="OpenAI" />
 <br/>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 </details>
@@ -126,13 +126,13 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🗄️ Databases & Messaging</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&perline=10" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch, RabbitMQ" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&perline=10&size=32" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch, RabbitMQ" />
 </details>
 
 <details open>
 <summary><b>🌐 Backend, Frameworks & Web</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,react,nextjs,vite,tailwind,html,css&perline=11" alt="Node.js, Express, FastAPI, Django, Spring, React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,react,nextjs,vite,tailwind,html,css&perline=11&size=32" alt="Node.js, Express, FastAPI, Django, Spring, React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
 </details>
 
 </details>
@@ -140,13 +140,13 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🧪 Version Control, Build & Testing</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&perline=10" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest, Pytest" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&perline=10&size=32" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest, Pytest" />
 </details>
 
 <details open>
 <summary><b>📈 Monitoring, IaC & Automation</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&perline=5" alt="Prometheus, Grafana, Terraform, Ansible, Bash" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&perline=5&size=32" alt="Prometheus, Grafana, Terraform, Ansible, Bash" />
 <img src="https://img.shields.io/badge/Datadog-0F172A?style=for-the-badge&logo=datadog&logoColor=A78BFA" alt="Datadog"/>
 <img src="https://img.shields.io/badge/OpenTelemetry-0F172A?style=for-the-badge&logo=opentelemetry&logoColor=FBBF24" alt="OpenTelemetry"/>
 <img src="https://img.shields.io/badge/Elastic_Stack-0F172A?style=for-the-badge&logo=elastic&logoColor=22D3EE" alt="Elastic Stack"/>
@@ -155,14 +155,15 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🖥️ Operating Systems & Virtualization</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,apple,windows,vmware&perline=8" alt="Linux, Ubuntu, Kali, Arch, Debian, macOS, Windows, VMware" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,apple,windows,vmware&perline=8&size=32" alt="Linux, Ubuntu, Kali, Arch, Debian, macOS, Windows, VMware" />
 </details>
 
 <details open>
 <summary><b>🧰 Development Tools</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,goland,webstorm,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=13" alt="VS Code, IntelliJ IDEA, GoLand, WebStorm, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
-<img src="https://cdn.simpleicons.org/ngrok" width="32" height="32" alt="ngrok" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=12&size=32" width="100%" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/goland/default.svg" width="32" height="32" alt="GoLand" />
+<img src="https://cdn.simpleicons.org/ngrok/white" width="32" height="32" alt="ngrok" />
 </details>
 
 </details>
