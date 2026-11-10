@@ -61,36 +61,17 @@ I'm especially interested in making these projects useful to someone other than 
 <!-- Each category is a single compact horizontal icon row. -->
 ### 01 — Programming Languages
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark&perline=13" height="32" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&theme=dark&perline=13" height="32" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell" />
 </div>
 
 ### 02 — Cloud, DevOps & Platforms
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=14" height="32" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify" />
-<img src="https://cdn.simpleicons.org/argo/E2E8F0" width="32" height="32" alt="ArgoCD" />
-<img src="https://cdn.simpleicons.org/helm/E2E8F0" width="32" height="32" alt="Helm" />
-<img src="https://cdn.simpleicons.org/istio/E2E8F0" width="32" height="32" alt="Istio" />
-<img src="https://cdn.simpleicons.org/vault/E2E8F0" width="32" height="32" alt="Vault" />
-<img src="https://cdn.simpleicons.org/pulumi/E2E8F0" width="32" height="32" alt="Pulumi" />
-<img src="https://cdn.simpleicons.org/sonarqube/E2E8F0" width="32" height="32" alt="SonarQube" />
-<img src="https://cdn.simpleicons.org/trivy/E2E8F0" width="32" height="32" alt="Trivy" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=14" height="32" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, ArgoCD, Helm, Istio, Vault, Pulumi, SonarQube, Trivy, Vercel and Netlify" />
 </div>
 
 ### 03 — AI, ML & Agentic AI
 <div style="white-space: nowrap;">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="32" alt="PyTorch, TensorFlow, FastAPI and Flask" />
-<img src="https://cdn.simpleicons.org/langchain/E2E8F0" width="32" height="32" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-05070D?style=flat-square" height="20" alt="LangGraph" />
-<img src="https://cdn.simpleicons.org/huggingface/E2E8F0" width="32" height="32" alt="Hugging Face" />
-<img src="https://cdn.simpleicons.org/anthropic/E2E8F0" width="32" height="32" alt="Anthropic Claude" />
-<img src="https://img.shields.io/badge/MCP-05070D?style=flat-square&logoColor=E2E8F0" height="20" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/RAG-05070D?style=flat-square&logoColor=E2E8F0" height="20" alt="Retrieval Augmented Generation" />
-<img src="https://cdn.simpleicons.org/mlflow/E2E8F0" width="32" height="32" alt="MLflow" />
-<img src="https://cdn.simpleicons.org/ollama/E2E8F0" width="32" height="32" alt="Ollama" />
-<img src="https://img.shields.io/badge/Vector_DBs-05070D?style=flat-square&logoColor=94A3B8" height="20" alt="Vector databases" />
-<img src="https://cdn.simpleicons.org/openai/E2E8F0" width="32" height="32" alt="OpenAI" />
-<img src="https://cdn.simpleicons.org/googlegemini/E2E8F0" width="32" height="32" alt="Google Gemini" />
-<img src="https://cdn.simpleicons.org/amazonaws/E2E8F0" width="32" height="32" alt="AWS Bedrock" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=4" height="32" alt="PyTorch, TensorFlow, langchain, LangGraph, Huggingface, anthropic, ollama, OpenAI, amazonaws, FastAPI and Flask" />
 </div>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 
