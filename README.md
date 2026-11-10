@@ -79,9 +79,9 @@ I'm especially interested in making these projects useful to someone other than 
 <img src="https://cdn.simpleicons.org/mlflow/E2E8F0" width="32" height="32" alt="MLflow" />
 <img src="https://cdn.simpleicons.org/ollama/E2E8F0" width="32" height="32" alt="Ollama" />
 <img src="https://img.shields.io/badge/Vector_DBs-05070D?style=for-the-badge&logoColor=94A3B8"/>
-<img src="https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Google_Gemini-05070D?style=for-the-badge&logo=googlegemini&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/AWS_Bedrock-05070D?style=for-the-badge&logo=amazonaws&logoColor=E2E8F0"/>
+<img src="https://cdn.simpleicons.org/openai/E2E8F0" width="32" height="32" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/googlegemini/E2E8F0" width="32" height="32" alt="Google Gemini" />
+<img src="https://cdn.simpleicons.org/amazonaws/E2E8F0" width="32" height="32" alt="AWS Bedrock" />
 </p>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 
