@@ -1,13 +1,14 @@
 <!-- MONO STEEL PROFILE — FULL TECHNOLOGY ICON CATALOG -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070D,50:1E293B,100:64748B&text=ABHILASH%20SHARMA&fontColor=E2E8F0&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20CLOUD%20%26%20DEVOPS%20%7C%20AGENTIC%20AI&descSize=14&descAlignY=62&stroke=94A3B8&strokeWidth=1" width="100%" alt="Mono Steel profile header"/>
+<img src="assets/glass-header.svg" width="100%" alt="Abhilash Sharma - SWE, DevOps, Agentic AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=BUILDING+RELIABLE+CLOUD+SYSTEMS;AUTOMATING+INFRASTRUCTURE+AND+DELIVERY;EXPLORING+AGENTIC+AI+AND+PLATFORM+ENGINEERING" alt="Profile focus"/>
+<img src="assets/marquee.svg" width="100%" alt="AWS, Kubernetes, Terraform, Docker, CI/CD, Platform Engineering, MLOps, Agentic AI, Cybersecurity, Web3, Automation" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=64748B&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
 ![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05070D?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=05070D)
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://abhilash9519.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=94A3B8)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
