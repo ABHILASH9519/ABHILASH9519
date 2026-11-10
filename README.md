@@ -116,7 +116,6 @@ Experiments with automating build and delivery workflows.
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" />
 <img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="32" height="32" alt="Anthropic" />
 <img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="32" height="32" alt="Ollama" />
-<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="32" height="32" alt="OpenAI" />
 <br/>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 </details>
