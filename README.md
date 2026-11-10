@@ -155,10 +155,7 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🧰 Development Tools</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&perline=12" alt="VS Code, IntelliJ, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
-<img src="https://img.shields.io/badge/GoLand-0F172A?style=for-the-badge&logo=goland&logoColor=22D3EE" alt="GoLand"/>
-<img src="https://img.shields.io/badge/Anaconda-0F172A?style=for-the-badge&logo=anaconda&logoColor=4ADE80" alt="Anaconda"/>
-<img src="https://img.shields.io/badge/ngrok-0F172A?style=for-the-badge&logo=ngrok&logoColor=60A5FA" alt="ngrok"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,goland,webstorm,androidstudio,Anaconda,vim,neovim,ngrok,figma,matlab,ps,postman,md&perline=12" alt="VS Code, IntelliJ, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
 </details>
 
 <details open>
