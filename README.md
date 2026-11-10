@@ -58,26 +58,26 @@ I'm especially interested in making these projects useful to someone other than 
 ### 02 — Cloud, DevOps & Platforms
 <p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=10" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify"/></p>
 <p>
-<img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Istio-05070D?style=for-the-badge&logo=istio&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Vault-05070D?style=for-the-badge&logo=vault&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Pulumi-05070D?style=for-the-badge&logo=pulumi&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/SonarQube-05070D?style=for-the-badge&logo=sonarqube&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Trivy-05070D?style=for-the-badge&logo=aquasecurity&logoColor=E2E8F0"/>
+<img src="https://cdn.simpleicons.org/argocd/E2E8F0" width="32" height="32" alt="ArgoCD" />
+<img src="https://cdn.simpleicons.org/helm/E2E8F0" width="32" height="32" alt="Helm" />
+<img src="https://cdn.simpleicons.org/istio/E2E8F0" width="32" height="32" alt="Istio" />
+<img src="https://cdn.simpleicons.org/vault/E2E8F0" width="32" height="32" alt="Vault" />
+<img src="https://cdn.simpleicons.org/pulumi/E2E8F0" width="32" height="32" alt="Pulumi" />
+<img src="https://cdn.simpleicons.org/sonarqube/E2E8F0" width="32" height="32" alt="SonarQube" />
+<img src="https://cdn.simpleicons.org/trivy/E2E8F0" width="32" height="32" alt="Trivy" />
 </p>
 
 ### 03 — AI, ML & Agentic AI
 <p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=10" alt="PyTorch, TensorFlow, FastAPI and Flask"/></p>
 <p>
-<img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=64748B"/>
-<img src="https://img.shields.io/badge/HuggingFace-05070D?style=for-the-badge&logo=huggingface&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0"/>
+<img src="https://cdn.simpleicons.org/langchain/E2E8F0" width="32" height="32" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/langchain/E2E8F0" width="32" height="32" alt="LangGraph" />
+<img src="https://cdn.simpleicons.org/huggingface/E2E8F0" width="32" height="32" alt="HuggingFace" />
+<img src="https://cdn.simpleicons.org/anthropic/E2E8F0" width="32" height="32" alt="Anthropic Claude" />
 <img src="https://img.shields.io/badge/MCP-05070D?style=for-the-badge&logoColor=64748B"/>
 <img src="https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/MLflow-05070D?style=for-the-badge&logo=mlflow&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
+<img src="https://cdn.simpleicons.org/mlflow/E2E8F0" width="32" height="32" alt="MLflow" />
+<img src="https://cdn.simpleicons.org/ollama/E2E8F0" width="32" height="32" alt="Ollama" />
 <img src="https://img.shields.io/badge/Vector_DBs-05070D?style=for-the-badge&logoColor=94A3B8"/>
 <img src="https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=E2E8F0"/>
 <img src="https://img.shields.io/badge/Google_Gemini-05070D?style=for-the-badge&logo=googlegemini&logoColor=E2E8F0"/>
@@ -97,10 +97,10 @@ I'm especially interested in making these projects useful to someone other than 
 ### 07 — Monitoring, Infrastructure as Code & Automation
 <p><img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark&perline=10" alt="Prometheus, Grafana, Terraform, Ansible and Bash"/></p>
 <p>
-<img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Loki-05070D?style=for-the-badge&logo=grafana&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/ELK-05070D?style=for-the-badge&logo=elastic&logoColor=E2E8F0"/>
+<img src="https://cdn.simpleicons.org/datadog/E2E8F0" width="32" height="32" alt="Datadog" />
+<img src="https://cdn.simpleicons.org/opentelemetry/E2E8F0" width="32" height="32" alt="OpenTelemetry" />
+<img src="https://cdn.simpleicons.org/grafana/E2E8F0" width="32" height="32" alt="Loki" />
+<img src="https://cdn.simpleicons.org/elastic/E2E8F0" width="32" height="32" alt="ELK" />
 </p>
 
 ### 08 — Operating Systems & Virtualization
@@ -109,19 +109,19 @@ I'm especially interested in making these projects useful to someone other than 
 ### 09 — Development Tools & Platforms
 <p><img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark&perline=10" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown"/></p>
 <p>
-<img src="https://img.shields.io/badge/GoLand-05070D?style=for-the-badge&logo=goland&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Anaconda-05070D?style=for-the-badge&logo=anaconda&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Firebase-05070D?style=for-the-badge&logo=firebase&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0"/>
+<img src="https://cdn.simpleicons.org/goland/E2E8F0" width="32" height="32" alt="GoLand" />
+<img src="https://cdn.simpleicons.org/anaconda/E2E8F0" width="32" height="32" alt="Anaconda" />
+<img src="https://cdn.simpleicons.org/firebase/E2E8F0" width="32" height="32" alt="Firebase" />
+<img src="https://cdn.simpleicons.org/ollama/E2E8F0" width="32" height="32" alt="Ollama" />
+<img src="https://cdn.simpleicons.org/ngrok/E2E8F0" width="32" height="32" alt="ngrok" />
+<img src="https://cdn.simpleicons.org/termius/E2E8F0" width="32" height="32" alt="Termius" />
 </p>
 
 ### 10 — Collaboration & Project Management
 <p>
-<img src="https://img.shields.io/badge/Atlassian-05070D?style=for-the-badge&logo=atlassian&logoColor=64748B"/>
-<img src="https://img.shields.io/badge/Jira-05070D?style=for-the-badge&logo=jira&logoColor=64748B"/>
-<img src="https://img.shields.io/badge/Slack-05070D?style=for-the-badge&logo=slack&logoColor=E2E8F0"/>
+<img src="https://cdn.simpleicons.org/atlassian/E2E8F0" width="32" height="32" alt="Atlassian" />
+<img src="https://cdn.simpleicons.org/jira/E2E8F0" width="32" height="32" alt="Jira" />
+<img src="https://cdn.simpleicons.org/slack/E2E8F0" width="32" height="32" alt="Slack" />
 </p>
 
 ## 05 / GITHUB ANALYTICS
