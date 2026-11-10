@@ -112,11 +112,11 @@ Experiments with automating build and delivery workflows.
 <summary><b>🤖 AI, ML & Agentic AI</b></summary>
 <br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2&size=32" alt="PyTorch, TensorFlow" />
-<img src="https://cdn.simpleicons.org/langchain" width="32" height="32" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/huggingface" width="32" height="32" alt="Hugging Face" />
-<img src="https://cdn.simpleicons.org/anthropic" width="32" height="32" alt="Anthropic" />
-<img src="https://cdn.simpleicons.org/ollama" width="32" height="32" alt="Ollama" />
-<img src="https://cdn.simpleicons.org/openai/white" width="32" height="32" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/langchain/4A9EFF" width="32" height="32" alt="LangChain" />
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" />
+<img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="32" height="32" alt="Anthropic" />
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="32" height="32" alt="Ollama" />
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="32" height="32" alt="OpenAI" />
 <br/>
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 </details>
