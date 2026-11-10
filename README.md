@@ -1,9 +1,9 @@
-<!-- MONO STEEL PROFILE README -->
+<!-- MONO STEEL PROFILE — FULL TECHNOLOGY ICON CATALOG -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070D,50:1E293B,100:64748B&text=ABHILASH%20SHARMA&fontColor=E2E8F0&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20CLOUD%20%26%20DEVOPS%20%7C%20AGENTIC%20AI&descSize=14&descAlignY=62&stroke=94A3B8&strokeWidth=1" width="100%" alt="Abhilash Sharma — Mono Steel profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:05070D,50:1E293B,100:64748B&text=ABHILASH%20SHARMA&fontColor=E2E8F0&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20CLOUD%20%26%20DEVOPS%20%7C%20AGENTIC%20AI&descSize=14&descAlignY=62&stroke=94A3B8&strokeWidth=1" width="100%" alt="Mono Steel profile header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=BUILDING+RELIABLE+CLOUD+SYSTEMS;AUTOMATING+INFRASTRUCTURE+AND+DELIVERY;EXPLORING+AGENTIC+AI+AND+PLATFORM+ENGINEERING;LEARN+BY+BUILDING.+SHIP+WITH+PURPOSE." alt="Profile focus"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=94A3B8&center=true&vCenter=true&width=760&lines=BUILDING+RELIABLE+CLOUD+SYSTEMS;AUTOMATING+INFRASTRUCTURE+AND+DELIVERY;EXPLORING+AGENTIC+AI+AND+PLATFORM+ENGINEERING" alt="Profile focus"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=64748B&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
@@ -20,11 +20,7 @@
 
 ## 01 / WHOAMI
 
-I'm a software engineering student focused on **Cloud Engineering, DevOps, Infrastructure Automation and Agentic AI**.
-
-I started with full-stack development and became increasingly interested in what makes software reliable beyond the code: infrastructure, CI/CD, observability, security, automated recovery and scalable systems. I learn by building, testing, breaking things and improving them.
-
-**Current direction:** cloud-native engineering · platform automation · production-minded AI workflows.
+I'm a software engineering student focused on **Cloud Engineering, DevOps, Infrastructure Automation and Agentic AI**. I started in full-stack development and became increasingly interested in infrastructure, CI/CD, observability, security, automated recovery and scalable systems. I learn by building, testing and improving.
 
 ## 02 / CURRENTLY BUILDING
 
@@ -35,65 +31,94 @@ I started with full-stack development and became increasingly interested in what
 | [Sahaara](https://github.com/ABHILASH9519/sahaara) | Cross-platform mobile application with Android and iOS workflows |
 | [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator) | Build, test and delivery automation experiments |
 
-<sub>Project status is evolving; repository documentation is the source of truth for implemented features.</sub>
-
 ## 03 / SKILL RADAR
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHILASH9519&bg_color=05070D&color=CBD5E1&line=94A3B8&point=E2E8F0&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
-</div>
+## 04 / COMPLETE TECHNOLOGY STACK
 
-## 04 / TECH STACK
+### 01 — Programming Languages
+<p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell"/></p>
 
-**Programming languages**
-
+### 02 — Cloud, DevOps & Platforms
+<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify"/></p>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark" alt="Programming language logos"/>
+<img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Istio-05070D?style=for-the-badge&logo=istio&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Vault-05070D?style=for-the-badge&logo=vault&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Pulumi-05070D?style=for-the-badge&logo=pulumi&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/SonarQube-05070D?style=for-the-badge&logo=sonarqube&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Trivy-05070D?style=for-the-badge&logo=aquasecurity&logoColor=E2E8F0"/>
 </p>
 
-**Cloud, DevOps & platform engineering**
-
+### 03 — AI, ML & Agentic AI
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" alt="PyTorch, TensorFlow, FastAPI and Flask"/></p>
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel&theme=dark" alt="Cloud and DevOps technology logos"/>
-</p>
-
-**AI, ML & agentic systems**
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" alt="AI and machine learning technology logos"/>
 <img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=94A3B8"/>
-<img src="https://img.shields.io/badge/Hugging_Face-05070D?style=for-the-badge&logo=huggingface&logoColor=E2E8F0"/>
-<img src="https://img.shields.io/badge/RAG_&_MCP-05070D?style=for-the-badge&logoColor=CBD5E1"/>
+<img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=64748B"/>
+<img src="https://img.shields.io/badge/HuggingFace-05070D?style=for-the-badge&logo=huggingface&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/MCP-05070D?style=for-the-badge&logoColor=64748B"/>
+<img src="https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/MLflow-05070D?style=for-the-badge&logo=mlflow&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Vector_DBs-05070D?style=for-the-badge&logoColor=94A3B8"/>
+<img src="https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Google_Gemini-05070D?style=for-the-badge&logo=googlegemini&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/AWS_Bedrock-05070D?style=for-the-badge&logo=amazonaws&logoColor=E2E8F0"/>
+</p>
+<sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
+
+### 04 — Databases & Messaging
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch and RabbitMQ"/></p>
+
+### 05 — Backend, Frameworks & Web Development
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark" alt="Node.js, Express, FastAPI, Django, Spring, GraphQL, React, Next.js, Angular, Vue, Vite, Tailwind, Bootstrap, HTML and CSS"/></p>
+
+### 06 — Version Control, Build & Testing
+<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest and Pytest"/></p>
+
+### 07 — Monitoring, Infrastructure as Code & Automation
+<p><img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark" alt="Prometheus, Grafana, Terraform, Ansible and Bash"/></p>
+<p>
+<img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Loki-05070D?style=for-the-badge&logo=grafana&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/ELK-05070D?style=for-the-badge&logo=elastic&logoColor=E2E8F0"/>
 </p>
 
-**Databases, backend & web**
+### 08 — Operating Systems & Virtualization
+<p><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark" alt="Linux, Ubuntu, Kali Linux, Arch, Debian, macOS, Windows and VMware"/></p>
 
+### 09 — Development Tools & Platforms
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown"/></p>
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,sqlite,supabase,firebase,nodejs,express,django,spring,graphql,react,nextjs,angular,vue,tailwind&theme=dark" alt="Database and web development technology logos"/>
+<img src="https://img.shields.io/badge/GoLand-05070D?style=for-the-badge&logo=goland&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Anaconda-05070D?style=for-the-badge&logo=anaconda&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Firebase-05070D?style=for-the-badge&logo=firebase&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0"/>
+<img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0"/>
 </p>
 
-**Monitoring, operating systems & tools**
-
+### 10 — Collaboration & Project Management
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,ubuntu,windows,git,github,gitlab,vscode,idea,postman,figma&theme=dark" alt="Monitoring, operating systems and development tools"/>
+<img src="https://img.shields.io/badge/Atlassian-05070D?style=for-the-badge&logo=atlassian&logoColor=64748B"/>
+<img src="https://img.shields.io/badge/Jira-05070D?style=for-the-badge&logo=jira&logoColor=64748B"/>
+<img src="https://img.shields.io/badge/Slack-05070D?style=for-the-badge&logo=slack&logoColor=E2E8F0"/>
 </p>
 
 ## 05 / GITHUB ANALYTICS
 
 <div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github_dark" width="100%" alt="GitHub profile contribution summary"/>
-
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&include_all_commits=true&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8&icon_color=94A3B8" width="100%" alt="GitHub statistics and commits"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8" width="100%" alt="Most used programming languages"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&include_all_commits=true&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8&icon_color=94A3B8" width="100%" alt="GitHub statistics"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8" width="100%" alt="Most used languages"/></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="25%" align="center"><b>COMMITS</b><br/><a href="https://github.com/ABHILASH9519?tab=overview"><img src="https://img.shields.io/badge/VIEW-COMMITS-05070D?style=for-the-badge&logo=git&logoColor=E2E8F0" alt="View commits"/></a></td>
@@ -102,28 +127,20 @@ I started with full-stack development and became increasingly interested in what
 <td width="25%" align="center"><b>PULL REQUESTS</b><br/><a href="https://github.com/pulls?q=is%3Apr+author%3AABHILASH9519"><img src="https://img.shields.io/badge/VIEW-PULL_REQUESTS-05070D?style=for-the-badge&logo=gitpullrequest&logoColor=E2E8F0" alt="View pull requests"/></a></td>
 </tr>
 </table>
-
 </div>
 
 ## 06 / CONTRIBUTION STREAK
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH9519&theme=dark&background=05070D&ring=94A3B8&fire=E2E8F0&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B&hide_border=true" width="100%" alt="GitHub current and longest contribution streak"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH9519&theme=dark&background=05070D&ring=94A3B8&fire=E2E8F0&currStreakLabel=CBD5E1&sideLabels=94A3B8&dates=64748B&hide_border=true" width="100%" alt="GitHub contribution streak"/>
 </div>
 
-## 07 / OPEN SOURCE & COLLABORATION
-
-I'm interested in practical collaboration around cloud infrastructure, developer tooling, automation, observability, AI engineering and beginner-friendly technical documentation.
-
-If you spot a bug or have an improvement, open an issue or pull request. I value reproducible examples, thoughtful reviews and useful documentation.
-
+## 07 / CONNECT
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=LEARN+BY+BUILDING.;SOLVE+REAL+PROBLEMS.;SHIP+WITH+PURPOSE." alt="Learn by building, solve real problems, ship with purpose"/>
-
+[![GitHub](https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=E2E8F0)](https://github.com/ABHILASH9519)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=94A3B8)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
+[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:Abhilashsharma783@gmail.com)
+[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=E2E8F0)](https://dev.to/abhilash_sharma_ed042f65e)
 </div>
 
 ---
-<sub>Mono Steel-inspired profile · Built with Markdown, SVG badges and live GitHub stats.</sub>
+<sub>Mono Steel-inspired profile · Learn by building · Solve real problems · Ship with purpose.</sub>
