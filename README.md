@@ -20,16 +20,22 @@
 
 ## 01 / WHOAMI
 
-I'm a software engineering student focused on **Cloud Engineering, DevOps, Infrastructure Automation and Agentic AI**. I started in full-stack development and became increasingly interested in infrastructure, CI/CD, observability, security, automated recovery and scalable systems. I learn by building, testing and improving.
+I'm a software engineering student interested in **Cloud & DevOps, platform engineering, automation, and agentic AI**.
 
-## 02 / CURRENTLY BUILDING
+I started out building full-stack applications. Over time, I became more interested in what happens behind the application: how services are deployed, how infrastructure is managed, how systems recover when something breaks, and how repetitive work can be automated.
 
-| Project | Focus |
+I learn by building, testing, breaking things, and improving them. Most of the repositories here are works in progress, and I try to document what is implemented versus what I'm still exploring.
+
+## 02 / WHAT I'M BUILDING
+
+| Project | What it is |
 |---|---|
-| [CloudSentinels](https://github.com/ABHILASH9519/cloudsentinels) | AWS operations, event-driven automation and self-healing workflow experiments |
-| [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench) | Computer-vision pipeline for lunar image registration and quantitative comparison |
-| [Sahaara](https://github.com/ABHILASH9519/sahaara) | Cross-platform mobile application with Android and iOS workflows |
-| [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator) | Build, test and delivery automation experiments |
+| [CloudSentinels](https://github.com/ABHILASH9519/cloudsentinels) | Exploring cloud incident handling, event-driven automation and operational visibility with AWS. The remediation workflow is being developed incrementally; live cluster remediation is not yet enabled. |
+| [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench) | A computer-vision project for registering and comparing lunar images from different missions and imaging conditions. |
+| [Sahaara](https://github.com/ABHILASH9519/sahaara) | A mobile-app project focused on turning a product idea into usable Android and iOS flows. |
+| [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator) | Experiments with automating build and delivery workflows. |
+
+I'm especially interested in making these projects useful to someone other than me: clear setup steps, reproducible tests, sensible issues, and documentation that matches the actual code.
 
 ## 03 / SKILL RADAR
 
@@ -38,10 +44,10 @@ I'm a software engineering student focused on **Cloud Engineering, DevOps, Infra
 ## 04 / COMPLETE TECHNOLOGY STACK
 
 ### 01 — Programming Languages
-<p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell"/></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark&perline=10" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell"/></p>
 
 ### 02 — Cloud, DevOps & Platforms
-<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify"/></p>
+<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark&perline=10" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel and Netlify"/></p>
 <p>
 <img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0"/>
 <img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0"/>
@@ -53,7 +59,7 @@ I'm a software engineering student focused on **Cloud Engineering, DevOps, Infra
 </p>
 
 ### 03 — AI, ML & Agentic AI
-<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" alt="PyTorch, TensorFlow, FastAPI and Flask"/></p>
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark&perline=10" alt="PyTorch, TensorFlow, FastAPI and Flask"/></p>
 <p>
 <img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0"/>
 <img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=64748B"/>
@@ -71,16 +77,16 @@ I'm a software engineering student focused on **Cloud Engineering, DevOps, Infra
 <sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
 
 ### 04 — Databases & Messaging
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch and RabbitMQ"/></p>
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark&perline=10" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch and RabbitMQ"/></p>
 
 ### 05 — Backend, Frameworks & Web Development
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark" alt="Node.js, Express, FastAPI, Django, Spring, GraphQL, React, Next.js, Angular, Vue, Vite, Tailwind, Bootstrap, HTML and CSS"/></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark&perline=10" alt="Node.js, Express, FastAPI, Django, Spring, GraphQL, React, Next.js, Angular, Vue, Vite, Tailwind, Bootstrap, HTML and CSS"/></p>
 
 ### 06 — Version Control, Build & Testing
-<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest and Pytest"/></p>
+<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark&perline=10" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest and Pytest"/></p>
 
 ### 07 — Monitoring, Infrastructure as Code & Automation
-<p><img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark" alt="Prometheus, Grafana, Terraform, Ansible and Bash"/></p>
+<p><img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark&perline=10" alt="Prometheus, Grafana, Terraform, Ansible and Bash"/></p>
 <p>
 <img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0"/>
 <img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0"/>
@@ -89,10 +95,10 @@ I'm a software engineering student focused on **Cloud Engineering, DevOps, Infra
 </p>
 
 ### 08 — Operating Systems & Virtualization
-<p><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark" alt="Linux, Ubuntu, Kali Linux, Arch, Debian, macOS, Windows and VMware"/></p>
+<p><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark&perline=10" alt="Linux, Ubuntu, Kali Linux, Arch, Debian, macOS, Windows and VMware"/></p>
 
 ### 09 — Development Tools & Platforms
-<p><img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown"/></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark&perline=10" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Flutter, Vim, Neovim, Figma, MATLAB, Photoshop, Postman and Markdown"/></p>
 <p>
 <img src="https://img.shields.io/badge/GoLand-05070D?style=for-the-badge&logo=goland&logoColor=E2E8F0"/>
 <img src="https://img.shields.io/badge/Anaconda-05070D?style=for-the-badge&logo=anaconda&logoColor=E2E8F0"/>
@@ -135,12 +141,15 @@ I'm a software engineering student focused on **Cloud Engineering, DevOps, Infra
 </div>
 
 ## 07 / CONNECT
+
 <div align="center">
-[![GitHub](https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=E2E8F0)](https://github.com/ABHILASH9519)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=94A3B8)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
-[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:Abhilashsharma783@gmail.com)
-[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=E2E8F0)](https://dev.to/abhilash_sharma_ed042f65e)
+  <a href="https://github.com/ABHILASH9519"><img src="https://img.shields.io/badge/GITHUB-05070D?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=94A3B8" alt="LinkedIn"/></a>
+  <a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=94A3B8" alt="Email"/></a>
+  <a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=E2E8F0" alt="DEV Community"/></a>
+  <a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0" alt="Portfolio"/></a>
 </div>
 
 ---
+
 <sub>Mono Steel-inspired profile · Learn by building · Solve real problems · Ship with purpose.</sub>
