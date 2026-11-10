@@ -132,14 +132,7 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🌐 Backend, Frameworks & Web</b></summary>
 <br/>
-<b>Core backend</b><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3" alt="Node.js, Express, FastAPI" />
-<br/>
-<b>Good to have</b><br/>
-<img src="https://skillicons.dev/icons?i=django,spring&perline=2" alt="Django, Spring" />
-<br/>
-<b>Frontend</b><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&perline=6" alt="React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,react,nextjs,vite,tailwind,html,css&perline=11" alt="Node.js, Express, FastAPI, Django, Spring, React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
 </details>
 
 </details>
