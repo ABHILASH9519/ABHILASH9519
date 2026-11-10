@@ -10,22 +10,30 @@
 ![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05070D?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=05070D)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://abhilash9519.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=94A3B8)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
-[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=E2E8F0)](https://dev.to/abhilash_sharma_ed042f65e)
-[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:Abhilashsharma783@gmail.com)
-
 </div>
 
 ---
 
 ## 01 / WHOAMI
 
-I'm a software engineering student interested in **Cloud & DevOps, platform engineering, automation, and agentic AI**.
+<div align="center">
 
-I started out building full-stack applications. Over time, I became more interested in what happens behind the application: how services are deployed, how infrastructure is managed, how systems recover when something breaks, and how repetitive work can be automated.
+<img src="assets/sec-whoami.svg" width="100%" alt="01 whoami" />
 
-I learn by building, testing, breaking things, and improving them. Most of the repositories here are works in progress, and I try to document what is implemented versus what I'm still exploring.
+<img src="assets/glass-about.svg" width="100%" alt="About Abhilash: role, location, experience, focus, learning, philosophy" />
+
+</div>
+
+I started in **Full-Stack Development**, then found my real passion in **Cloud Engineering, DevOps, Infrastructure Automation and scalable systems**. Today I design, automate and ship reliable, production-oriented solutions, increasingly powered by **Generative AI and Agentic workflows**.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://abhilash9519.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=64748B)](mailto:Abhilashsharma783@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=64748B)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
+[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=FFFFFF)](https://www.dev.to/abhilash_sharma_ed042f65e)
+
+</div>
 
 ## 02 / WHAT I'M BUILDING
 
@@ -42,7 +50,7 @@ I'm especially interested in making these projects useful to someone other than 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHILASH9519&bg_color=05070D&color=CBD5E1&line=94A3B8&point=E2E8F0&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
-## 04 / COMPLETE TECHNOLOGY STACK
+## 04 / TECHNICAL STACK
 
 ### 01 — Programming Languages
 <p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark&perline=10" alt="C, C++, Go, Python, Java, Kotlin, Swift, Dart, Rust, TypeScript, JavaScript, Bash and PowerShell"/></p>
