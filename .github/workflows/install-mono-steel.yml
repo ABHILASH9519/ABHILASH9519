@@ -2,7 +2,7 @@ name: Install Mono Steel profile assets
 on:
   push:
     paths:
-      - ".mono-steel-assets-*.b64"
+      - ".mono-steel-assets-10.b64"
   workflow_dispatch:
 permissions:
   contents: write
