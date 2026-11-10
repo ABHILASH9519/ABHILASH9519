@@ -160,9 +160,13 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🧰 Development Tools</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=12&size=32" width="100%" alt="VS Code, IntelliJ IDEA, WebStorm, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
-<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/goland/default.svg" width="32" height="32" alt="GoLand" />
-<img src="https://cdn.simpleicons.org/ngrok/white" width="32" height="32" alt="ngrok" />
+<a href="https://www.jetbrains.com/go/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/goland/goland.svg" width="72" height="72" alt="GoLand" /></a>
+<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="72" height="72" alt="IntelliJ IDEA" /></a>
+<a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/webstorm/webstorm.svg" width="72" height="72" alt="WebStorm" /></a>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=10&size=72" width="100%" alt="VS Code, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
+<img src="https://cdn.simpleicons.org/ngrok/white" width="72" height="72" alt="ngrok" />
+
+<sub>JetBrains product icons are trademarks of JetBrains s.r.o. · <a href="https://www.jetbrains.com/company/brand/">Brand guidelines</a></sub>
 </details>
 
 </details>
