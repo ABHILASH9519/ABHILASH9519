@@ -1,78 +1,137 @@
-# Hey, I'm Abhilash 👋
+<div align="center">
 
-I'm a software engineering student interested in **Cloud & DevOps, platform engineering, automation, and agentic AI**.
+# ABHILASH SHARMA
+### SOFTWARE ENGINEERING · CLOUD & DEVOPS · AGENTIC AI
 
-I started out building full-stack applications. Over time, I became more interested in what happens behind the application: how services are deployed, how infrastructure is managed, how systems recover when something breaks, and how repetitive work can be automated.
+<img src="https://img.shields.io/badge/MONO_STEEL-05070D?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Mono Steel" />
+<img src="https://komarev.com/ghpvc/?username=ABHILASH9519&style=for-the-badge&color=64748B&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&color=64748B&labelColor=05070D&logo=github" alt="Followers" />
 
-I learn by building, testing, breaking things, and improving them. Most of the repositories here are works in progress, and I try to document what is implemented versus what I'm still exploring.
+**Building reliable systems. Automating the repetitive. Exploring intelligent workflows.**
 
 [Portfolio](https://abhilash9519.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/abhilash-sharma-a72781290/) · [DEV Community](https://dev.to/abhilash_sharma_ed042f65e) · [Email](mailto:Abhilashsharma783@gmail.com)
 
+</div>
+
 ---
 
-## What I'm working on
+## 01 / WHOAMI
 
-| Project | What it is |
+I'm a software engineering student focused on **Cloud Engineering, DevOps, Infrastructure Automation and Agentic AI**.
+
+I started with full-stack development and gradually became more interested in the systems behind applications: infrastructure, deployment pipelines, observability, reliability and automated recovery. I learn by building, testing, breaking things and improving them.
+
+- **Currently building:** cloud automation, CI/CD workflows and practical AI-powered tools
+- **Core interests:** AWS, Linux, containers, Kubernetes, infrastructure as code and platform engineering
+- **Exploring:** LLM applications, RAG, AI agents, MCP and event-driven automation
+- **Approach:** document what works, test what changes and distinguish implemented features from experiments
+
+## 02 / CURRENT PROJECTS
+
+| Project | Focus |
 |---|---|
-| [CloudSentinels](https://github.com/ABHILASH9519/cloudsentinels) | Exploring cloud incident handling, event-driven automation and operational visibility with AWS. The remediation workflow is being developed incrementally; live cluster remediation is not yet enabled. |
-| [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench) | A computer-vision project for registering and comparing lunar images from different missions and imaging conditions. |
-| [Sahaara](https://github.com/ABHILASH9519/sahaara) | A mobile-app project focused on turning a product idea into usable Android and iOS flows. |
-| [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator) | Experiments with automating build and delivery workflows. |
+| [CloudSentinels](https://github.com/ABHILASH9519/cloudsentinels) | Cloud incident handling, event-driven automation and operational visibility with AWS |
+| [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench) | Computer-vision registration and comparison of lunar images across missions |
+| [Sahaara](https://github.com/ABHILASH9519/sahaara) | Mobile application development for Android and iOS |
+| [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator) | Experiments in build, test and delivery automation |
 
-I'm especially interested in making these projects useful to someone other than me: clear setup steps, reproducible tests, sensible issues, and documentation that matches the actual code.
+## 03 / TECHNOLOGY STACK
 
-## Areas I'm learning and using
+<div align="center">
 
-- **Cloud & infrastructure:** AWS, Azure, Linux, Terraform, Ansible
-- **Containers & delivery:** Docker, Kubernetes, GitHub Actions, Jenkins
-- **Automation & operations:** Bash, Python, event-driven workflows, monitoring
-- **Software development:** JavaScript, TypeScript, Go, Python, React, Node.js
-- **AI engineering:** LLM applications, RAG, agent workflows and tool integrations
-- **Data & storage:** PostgreSQL, MongoDB, Redis
+**CLOUD · DEVOPS · INFRASTRUCTURE**
 
-I don't consider a tool mastered just because I've tried it. I'm working on getting better at the fundamentals and using each technology where it makes sense.
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,nginx,cloudflare&theme=dark&perline=6" alt="Cloud and DevOps technologies" />
 
-## GitHub activity
+**LANGUAGES · BACKEND · WEB**
 
-The four panels below use the same width so commits, reviews, issues and pull requests get equal space. The numbers are supplied by GitHub's activity data; they aren't manually adjusted.
+<img src="https://skillicons.dev/icons?i=go,python,java,js,ts,bash,react,nextjs,nodejs,express,fastapi,postgres&theme=dark&perline=6" alt="Programming languages and frameworks" />
+
+**AI · DATA · OBSERVABILITY**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mongodb,redis,mysql,supabase,prometheus,grafana,git,github,vscode&theme=dark&perline=6" alt="AI, databases and engineering tools" />
+
+<img src="https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=E2E8F0" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Google_Gemini-05070D?style=for-the-badge&logo=googlegemini&logoColor=E2E8F0" alt="Gemini" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0" alt="Claude" />
+<img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-05070D?style=for-the-badge&logo=huggingface&logoColor=E2E8F0" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-05070D?style=for-the-badge&logo=amazonaws&logoColor=E2E8F0" alt="AWS Bedrock" />
+
+</div>
+
+## 04 / GITHUB ACTIVITY
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%" align="center">
-      <strong>Commits</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent&hide_border=true" width="100%" alt="GitHub commit and repository statistics"/>
-    </td>
-    <td width="50%" align="center">
-      <strong>Contribution activity</strong><br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github" width="100%" alt="GitHub contribution activity"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <strong>Pull requests & reviews</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_title=true&hide=stars,commits,prs,issues,contributions&theme=transparent&hide_border=true" width="100%" alt="GitHub profile summary"/>
-    </td>
-    <td width="50%" align="center">
-      <strong>Languages</strong><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&theme=transparent&hide_border=true" width="100%" alt="Most used repository languages"/>
-    </td>
-  </tr>
+<tr>
+<td width="25%" align="center">
+
+**COMMITS**
+
+<a href="https://github.com/ABHILASH9519?tab=overview"><img src="https://img.shields.io/badge/COMMIT_HISTORY-05070D?style=for-the-badge&logo=git&logoColor=E2E8F0" alt="Commit history" /></a>
+
+</td>
+<td width="25%" align="center">
+
+**CODE REVIEWS**
+
+<a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3AABHILASH9519"><img src="https://img.shields.io/badge/REVIEW_ACTIVITY-05070D?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Code review activity" /></a>
+
+</td>
+<td width="25%" align="center">
+
+**ISSUES**
+
+<a href="https://github.com/ABHILASH9519?tab=issues"><img src="https://img.shields.io/badge/ISSUE_TRACKER-05070D?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="Issues" /></a>
+
+</td>
+<td width="25%" align="center">
+
+**PULL REQUESTS**
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3AABHILASH9519"><img src="https://img.shields.io/badge/PULL_REQUESTS-05070D?style=for-the-badge&logo=gitpullrequest&logoColor=E2E8F0" alt="Pull requests" /></a>
+
+</td>
+</tr>
 </table>
 
-[View my contribution history](https://github.com/ABHILASH9519?tab=overview&from=2026-01-01&to=2026-12-31) · [Browse repositories](https://github.com/ABHILASH9519?tab=repositories)
+<a href="https://github.com/ABHILASH9519">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&include_all_commits=true&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8&icon_color=94A3B8" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/ABHILASH9519">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8" alt="Top languages" />
+</a>
 
-## Tools I reach for
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,linux,githubactions,jenkins,go,python,js,ts,react,nodejs,postgres,mongodb,prometheus,grafana&perline=9" alt="Cloud, DevOps and software engineering tools"/>
-</p>
+## 05 / CONTRIBUTION STREAK
 
-## Open source
+<div align="center">
 
-I'm interested in collaborating on practical projects around cloud infrastructure, developer tooling, automation, observability and beginner-friendly engineering documentation.
+<a href="https://github.com/ABHILASH9519">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH9519&theme=dark&hide_border=true&background=05070D&ring=94A3B8&fire=E2E8F0&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=64748B" alt="GitHub contribution streak and contribution statistics" />
+</a>
 
-If you find a bug, have an idea, or want to improve something here, please open an issue or a pull request. I appreciate specific feedback and constructive code reviews.
+<a href="https://github.com/ABHILASH9519?tab=overview">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github_dark" alt="GitHub contribution calendar summary" />
+</a>
+
+</div>
+
+## 06 / OPEN SOURCE & COLLABORATION
+
+I'm interested in practical contributions around cloud infrastructure, developer tooling, automation, observability, AI engineering and beginner-friendly technical documentation.
+
+If you spot a bug or have an idea, open an issue or pull request. I value clear feedback, reproducible tests and thoughtful code reviews.
 
 ---
 
-*Still learning. Still shipping. Trying to make each project a little more useful than the last.*
+<div align="center">
+
+**LEARN BY BUILDING · SOLVE REAL PROBLEMS · SHIP WITH PURPOSE**
+
+<sub>Mono Steel · Designed for clarity, consistency and continuous improvement.</sub>
+
+</div>
