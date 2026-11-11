@@ -215,4 +215,4 @@ Experiments with automating build and delivery workflows.
 
 </div>
 
-<img src="./assets/edolus-space-hero.svg" width="100%" alt="Build systems that scale — learn by building and ship with purpose" />
+<img src="./assets/edolus-space-footer.svg" width="100%" alt="Learn by building, ship with purpose — Cloud, DevOps, Automation and Agentic AI" />
