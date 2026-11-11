@@ -1,31 +1,31 @@
 <!-- AURORA GLASS PROFILE — works on GitHub light & dark themes -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:22D3EE,50:8B5CF6,100:F472B6&text=Abhilash%20Sharma&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SWE%20%C2%B7%20DevOps%20%C2%B7%20Cloud%20%C2%B7%20Agentic%20AI&descSize=20&descAlignY=60&descColor=F1F5F9&section=header" width="100%" alt="Abhilash Sharma - SWE, DevOps, Cloud, Agentic AI" />
+<img src="./assets/edolus-space-hero.svg" width="100%" alt="Abhilash Sharma — cinematic orbital space profile banner" />
 
 <a href="https://github.com/ABHILASH9519">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=720&height=44&lines=Building+reliable+cloud+%26+DevOps+systems;Automating+infrastructure+with+Terraform+%26+Kubernetes;Shipping+Agentic+AI+workflows+with+purpose;Learn+by+building.+Solve+real+problems." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C6A66B&center=true&vCenter=true&width=720&height=44&lines=Building+reliable+cloud+%26+DevOps+systems;Automating+infrastructure+with+Terraform+%26+Kubernetes;Shipping+Agentic+AI+workflows+with+purpose;Learn+by+building.+Solve+real+problems." alt="Typing animation" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=22D3EE)
-![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=F472B6)
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-0F172A?style=for-the-badge&logo=statuspage&logoColor=4ADE80)
+![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=C6A66B&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=white&labelColor=080D17&color=A8C0CE)
+![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=github&logoColor=white&labelColor=080D17&color=E1C49A)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-080D17?style=for-the-badge&logo=statuspage&logoColor=A6C7B5)
 
 <br/>
 
-<a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
-<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/></a>
-<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-0F172A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
+<a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-080D17?style=for-the-badge&logo=googlechrome&logoColor=A8C0CE" alt="Portfolio"/></a>
+<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080D17?style=for-the-badge&logo=gmail&logoColor=E1C49A" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-080D17?style=for-the-badge&logo=linkedin&logoColor=A8C0CE" alt="LinkedIn"/></a>
+<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-080D17?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:22D3EE,50:8B5CF6,100:F472B6" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A8C0CE,50:C6A66B,100:E1C49A" width="100%" alt="divider" />
 
 ## ⟡ 01 / WHOAMI
 
@@ -35,11 +35,11 @@
 
 I started in **Full-Stack Development**, then found my real passion in **Cloud Engineering, DevOps, Infrastructure Automation and scalable systems**. Today I design, automate and ship reliable, production-oriented solutions, increasingly powered by **Generative AI and Agentic workflows**.
 
-<img src="https://img.shields.io/badge/☁️_Cloud-0F172A?style=flat-square&labelColor=0F172A&color=22D3EE" alt="Cloud"/>
-<img src="https://img.shields.io/badge/⚙️_DevOps-0F172A?style=flat-square&labelColor=0F172A&color=8B5CF6" alt="DevOps"/>
-<img src="https://img.shields.io/badge/🤖_Agentic_AI-0F172A?style=flat-square&labelColor=0F172A&color=F472B6" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/🔐_Security-0F172A?style=flat-square&labelColor=0F172A&color=FBBF24" alt="Security"/>
-<img src="https://img.shields.io/badge/🚀_Automation-0F172A?style=flat-square&labelColor=0F172A&color=4ADE80" alt="Automation"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-080D17?style=flat-square&labelColor=080D17&color=A8C0CE" alt="Cloud"/>
+<img src="https://img.shields.io/badge/⚙️_DevOps-080D17?style=flat-square&labelColor=080D17&color=C6A66B" alt="DevOps"/>
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-080D17?style=flat-square&labelColor=080D17&color=E1C49A" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/🔐_Security-080D17?style=flat-square&labelColor=080D17&color=D8B77B" alt="Security"/>
+<img src="https://img.shields.io/badge/🚀_Automation-080D17?style=flat-square&labelColor=080D17&color=A6C7B5" alt="Automation"/>
 
 </td>
 </tr>
@@ -146,9 +146,9 @@ Experiments with automating build and delivery workflows.
 <summary><b>📈 Monitoring, IaC & Automation</b></summary>
 <br/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&perline=5&size=32" alt="Prometheus, Grafana, Terraform, Ansible, Bash" />
-<img src="https://img.shields.io/badge/Datadog-0F172A?style=for-the-badge&logo=datadog&logoColor=A78BFA" alt="Datadog"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-0F172A?style=for-the-badge&logo=opentelemetry&logoColor=FBBF24" alt="OpenTelemetry"/>
-<img src="https://img.shields.io/badge/Elastic_Stack-0F172A?style=for-the-badge&logo=elastic&logoColor=22D3EE" alt="Elastic Stack"/>
+<img src="https://img.shields.io/badge/Datadog-080D17?style=for-the-badge&logo=datadog&logoColor=A78BFA" alt="Datadog"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-080D17?style=for-the-badge&logo=opentelemetry&logoColor=D8B77B" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Elastic_Stack-080D17?style=for-the-badge&logo=elastic&logoColor=A8C0CE" alt="Elastic Stack"/>
 </details>
 
 <details open>
@@ -172,47 +172,47 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🤝 Collaboration & Project Management</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/Atlassian-0F172A?style=for-the-badge&logo=atlassian&logoColor=60A5FA" alt="Atlassian"/>
-<img src="https://img.shields.io/badge/Jira-0F172A?style=for-the-badge&logo=jira&logoColor=60A5FA" alt="Jira"/>
-<img src="https://img.shields.io/badge/Slack-0F172A?style=for-the-badge&logo=slack&logoColor=F472B6" alt="Slack"/>
+<img src="https://img.shields.io/badge/Atlassian-080D17?style=for-the-badge&logo=atlassian&logoColor=A8C0CE" alt="Atlassian"/>
+<img src="https://img.shields.io/badge/Jira-080D17?style=for-the-badge&logo=jira&logoColor=A8C0CE" alt="Jira"/>
+<img src="https://img.shields.io/badge/Slack-080D17?style=for-the-badge&logo=slack&logoColor=E1C49A" alt="Slack"/>
 </details>
 
 ## ⟡ 05 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=tokyonight" width="100%" alt="GitHub profile summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github_dark" width="100%" alt="GitHub profile summary"/>
 
 <table>
 <tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F172A00&title_color=8B5CF6&text_color=94A3B8&icon_color=22D3EE&ring_color=F472B6" width="100%" alt="GitHub stats"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&hide_border=true&bg_color=0F172A00&title_color=8B5CF6&text_color=94A3B8" width="100%" alt="Top languages"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080D1700&title_color=C6A66B&text_color=9AA9B7&icon_color=A8C0CE&ring_color=E1C49A" width="100%" alt="GitHub stats"/></td>
+<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&hide_border=true&bg_color=080D1700&title_color=C6A66B&text_color=9AA9B7" width="100%" alt="Top languages"/></td>
 </tr>
 </table>
 
-<a href="https://github.com/ABHILASH9519?tab=overview"><img src="https://img.shields.io/badge/COMMITS-0F172A?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Commits"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3AABHILASH9519"><img src="https://img.shields.io/badge/CODE_REVIEWS-0F172A?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="Reviews"/></a>
-<a href="https://github.com/ABHILASH9519?tab=issues"><img src="https://img.shields.io/badge/ISSUES-0F172A?style=for-the-badge&logo=github&logoColor=F472B6" alt="Issues"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AABHILASH9519"><img src="https://img.shields.io/badge/PULL_REQUESTS-0F172A?style=for-the-badge&logo=gitpullrequest&logoColor=4ADE80" alt="Pull requests"/></a>
+<a href="https://github.com/ABHILASH9519?tab=overview"><img src="https://img.shields.io/badge/COMMITS-080D17?style=for-the-badge&logo=git&logoColor=A8C0CE" alt="Commits"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3AABHILASH9519"><img src="https://img.shields.io/badge/CODE_REVIEWS-080D17?style=for-the-badge&logo=github&logoColor=C6A66B" alt="Reviews"/></a>
+<a href="https://github.com/ABHILASH9519?tab=issues"><img src="https://img.shields.io/badge/ISSUES-080D17?style=for-the-badge&logo=github&logoColor=E1C49A" alt="Issues"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AABHILASH9519"><img src="https://img.shields.io/badge/PULL_REQUESTS-080D17?style=for-the-badge&logo=gitpullrequest&logoColor=A6C7B5" alt="Pull requests"/></a>
 
 </div>
 
 ## ⟡ 06 / CONTRIBUTION STREAK
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH9519&theme=tokyonight&background=00000000&ring=8B5CF6&fire=F472B6&currStreakLabel=22D3EE&currStreakNum=8B5CF6&sideLabels=94A3B8&dates=94A3B8&hide_border=true" width="100%" alt="Contribution streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH9519&theme=github_dark&background=00000000&ring=C6A66B&fire=E1C49A&currStreakLabel=A8C0CE&currStreakNum=C6A66B&sideLabels=9AA9B7&dates=9AA9B7&hide_border=true" width="100%" alt="Contribution streak"/>
 </div>
 
 ## ⟡ 07 / CONNECT
 
 <div align="center">
 
-<a href="https://github.com/ABHILASH9519"><img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn"/></a>
-<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
-<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-0F172A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
-<a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"/></a>
+<a href="https://github.com/ABHILASH9519"><img src="https://img.shields.io/badge/GITHUB-080D17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-080D17?style=for-the-badge&logo=linkedin&logoColor=A8C0CE" alt="LinkedIn"/></a>
+<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080D17?style=for-the-badge&logo=gmail&logoColor=E1C49A" alt="Email"/></a>
+<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-080D17?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
+<a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-080D17?style=for-the-badge&logo=googlechrome&logoColor=A8C0CE" alt="Portfolio"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F472B6,50:8B5CF6,100:22D3EE&section=footer&reversal=true&animation=twinkling&text=Learn%20by%20building%20%C2%B7%20Ship%20with%20purpose&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%" alt="footer" />
+<img src="./assets/edolus-space-hero.svg" width="100%" alt="Build systems that scale — learn by building and ship with purpose" />
