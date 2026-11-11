@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03060D"/><stop offset=".52" stop-color="#0A1422"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <radialGradient id="haze"><stop stop-color="#C6A66B" stop-opacity=".28"/><stop offset="1" stop-color="#C6A66B" stop-opacity="0"/></radialGradient>
+  <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E6D3A6"/><stop offset=".35" stop-color="#8C9BAA"/><stop offset="1" stop-color="#26384C"/></linearGradient>
+  <linearGradient id="rim"><stop stop-color="#F3D9A0"/><stop offset=".45" stop-color="#B5C5D2"/><stop offset="1" stop-color="#6D8296"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#9FB0C0" stroke-opacity=".07" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+<ellipse cx="860" cy="260" rx="340" ry="180" fill="url(#haze)" filter="url(#blur)"/>
+<g fill="#E8EDF2" opacity=".8">
+<circle cx="82" cy="68" r="1.4"/><circle cx="160" cy="132" r="1"/><circle cx="310" cy="52" r="1.2"/><circle cx="470" cy="96" r="1"/><circle cx="590" cy="36" r="1.4"/><circle cx="710" cy="115" r="1"/><circle cx="1050" cy="65" r="1.3"/><circle cx="1130" cy="150" r="1"/><circle cx="980" cy="185" r="1"/><circle cx="230" cy="250" r="1.2"/><circle cx="540" cy="210" r="1"/><circle cx="112" cy="330" r="1"/>
+</g>
+<g fill="none" stroke="#D8C18E" stroke-opacity=".38"><ellipse cx="850" cy="285" rx="350" ry="92" transform="rotate(-14 850 285)"/><ellipse cx="850" cy="285" rx="410" ry="120" transform="rotate(-14 850 285)" stroke-opacity=".16"/></g>
+<circle cx="870" cy="380" r="260" fill="url(#planet)" opacity=".92"/>
+<path d="M610 345 Q870 180 1130 345" fill="none" stroke="url(#rim)" stroke-width="3" opacity=".9"/>
+<path d="M640 365 Q870 235 1100 365" fill="none" stroke="#F0D7A1" stroke-width="1" opacity=".5"/>
+<g fill="#C6A66B"><circle cx="1080" cy="116" r="3"/><circle cx="1080" cy="116" r="10" opacity=".16"/></g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="76" y="92" fill="#C6A66B" font-size="13" letter-spacing="4">ENGINEERING / CLOUD / AUTOMATION</text>
+ <text x="72" y="190" fill="#F4F2ED" font-size="66" font-weight="700" letter-spacing="-2">Abhilash Sharma</text>
+ <text x="78" y="236" fill="#C7D0D9" font-size="21" letter-spacing="1.4">SOFTWARE  ·  DEVOPS  ·  CLOUD  ·  AGENTIC AI</text>
+ <path d="M78 272H410" stroke="#C6A66B" stroke-width="2"/>
+ <text x="78" y="312" fill="#9EACB9" font-size="15" letter-spacing="2">BUILD SYSTEMS THAT SCALE.</text>
+ <text x="78" y="338" fill="#9EACB9" font-size="15" letter-spacing="2">AUTOMATE THE REPEATABLE. SHIP WITH PURPOSE.</text>
+</g>
+<rect x="1" y="1" width="1198" height="418" rx="21" fill="none" stroke="#D8C18E" stroke-opacity=".28"/>
+</svg>
