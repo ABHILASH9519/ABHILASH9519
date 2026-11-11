@@ -1,10 +1,10 @@
-<!-- AURORA GLASS PROFILE — works on GitHub light & dark themes -->
+<!-- AURORA GLASS PROFILE v2 — orbital steel visual system -->
 <div align="center">
 
-<img src="./assets/edolus-space-hero.svg" width="100%" alt="Abhilash Sharma — cinematic orbital space profile banner" />
+<img src="./assets/edolus-space-hero.svg" width="100%" alt="Abhilash Sharma — orbital space profile banner" />
 
 <a href="https://github.com/ABHILASH9519">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C6A66B&center=true&vCenter=true&width=720&height=44&lines=Building+reliable+cloud+%26+DevOps+systems;Automating+infrastructure+with+Terraform+%26+Kubernetes;Shipping+Agentic+AI+workflows+with+purpose;Learn+by+building.+Solve+real+problems." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C6A66B&center=true&vCenter=true&width=720&height=44&lines=Building+reliable+cloud+%26+DevOps+systems;Automating+infrastructure+with+purpose;Exploring+Agentic+AI+and+intelligent+workflows;Learn+by+building.+Ship+with+purpose." alt="Profile tagline animation" />
 </a>
 
 <br/>
@@ -24,26 +24,13 @@
 </div>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A8C0CE,50:C6A66B,100:E1C49A" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A8C0CE,50:C6A66B,100:E1C49A" width="100%" alt="orbital divider" />
 
 ## ⟡ 01 / WHOAMI
 
-<table>
-<tr>
-<td width="100%">
+I started with **Full-Stack Development** and grew especially interested in **Cloud Engineering, DevOps, Infrastructure Automation and reliable software systems**. I enjoy building, testing and documenting practical solutions, and I’m increasingly exploring **Generative AI and Agentic workflows**.
 
-I started in **Full-Stack Development**, then found my real passion in **Cloud Engineering, DevOps, Infrastructure Automation and scalable systems**. Today I design, automate and ship reliable, production-oriented solutions, increasingly powered by **Generative AI and Agentic workflows**.
-
-<img src="https://img.shields.io/badge/☁️_Cloud-080D17?style=flat-square&labelColor=080D17&color=A8C0CE" alt="Cloud"/>
-<img src="https://img.shields.io/badge/⚙️_DevOps-080D17?style=flat-square&labelColor=080D17&color=C6A66B" alt="DevOps"/>
-<img src="https://img.shields.io/badge/🤖_Agentic_AI-080D17?style=flat-square&labelColor=080D17&color=E1C49A" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/🔐_Security-080D17?style=flat-square&labelColor=080D17&color=D8B77B" alt="Security"/>
-<img src="https://img.shields.io/badge/🚀_Automation-080D17?style=flat-square&labelColor=080D17&color=A6C7B5" alt="Automation"/>
-
-</td>
-</tr>
-</table>
+<sub>☁️ CLOUD ENGINEERING　·　⚙️ DEVOPS　·　🔁 AUTOMATION　·　🤖 AGENTIC AI　·　🛠️ SOFTWARE ENGINEERING</sub>
 
 ## ⟡ 02 / WHAT I'M BUILDING
 
@@ -58,7 +45,7 @@ Exploring cloud incident handling, event-driven automation and operational visib
 <td width="50%" valign="top">
 
 ### 🌙 [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench)
-A computer-vision project for registering and comparing lunar images from different missions and imaging conditions.
+A computer-vision platform for registering and comparing lunar images across missions, sensors and imaging conditions.
 
 </td>
 </tr>
@@ -66,31 +53,25 @@ A computer-vision project for registering and comparing lunar images from differ
 <td width="50%" valign="top">
 
 ### 📱 [Sahaara](https://github.com/ABHILASH9519/sahaara)
-A mobile-app project focused on turning a product idea into usable Android and iOS flows.
+A cross-platform mobile-app project focused on building practical Android and iOS experiences.
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔁 [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator)
-Experiments with automating build and delivery workflows.
+Experiments with automating build, validation and delivery workflows.
 
 </td>
 </tr>
 </table>
 
-> 💡 I'm especially interested in making these projects useful to someone other than me: clear setup steps, reproducible tests, sensible issues, and documentation that matches the actual code.
+> I care about making projects useful beyond a demo: reproducible setup, working features, clear tests and documentation that reflects the implementation.
 
 ## ⟡ 03 / SKILL RADAR
 
-```text
- ☁️  Cloud & DevOps     ▰▰▰▰▰▰▰▰▰▱  90%
- 🛠️  Tools              ▰▰▰▰▰▰▰▰▱▱  85%
- ⚙️  Automation         ▰▰▰▰▰▰▰▰▱▱  85%
- 🧩  Backend Dev        ▰▰▰▰▰▰▰▰▱▱  80%
- 🤖  AI & ML            ▰▰▰▰▰▰▰▱▱▱  78%
- 🔐  Cybersecurity      ▰▰▰▰▰▰▱▱▱▱  60%
- 🌐  Web3               ▰▰▰▰▰▱▱▱▱▱  55%
-```
+<div align="center">
+<img src="./assets/skill-radar.svg" width="100%" alt="Qualitative focus areas: Cloud and DevOps, infrastructure automation, software engineering, and Agentic AI" />
+</div>
 
 ## ⟡ 04 / TECHNICAL STACK
 
@@ -176,6 +157,7 @@ Experiments with automating build and delivery workflows.
 <img src="https://img.shields.io/badge/Jira-080D17?style=for-the-badge&logo=jira&logoColor=A8C0CE" alt="Jira"/>
 <img src="https://img.shields.io/badge/Slack-080D17?style=for-the-badge&logo=slack&logoColor=E1C49A" alt="Slack"/>
 </details>
+
 
 ## ⟡ 05 / GITHUB ANALYTICS
 
