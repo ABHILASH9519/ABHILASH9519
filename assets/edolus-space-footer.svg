@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#050912"/><stop offset=".5" stop-color="#111C2B"/><stop offset="1" stop-color="#050912"/></linearGradient><linearGradient id="line"><stop stop-color="#C6A66B" stop-opacity="0"/><stop offset=".5" stop-color="#C6A66B"/><stop offset="1" stop-color="#C6A66B" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="150" rx="18" fill="url(#bg)"/>
+<path d="M70 28H1130" stroke="url(#line)" stroke-width="1"/>
+<g fill="#E8EDF2" opacity=".7"><circle cx="100" cy="55" r="1"/><circle cx="260" cy="105" r="1.2"/><circle cx="430" cy="48" r="1"/><circle cx="790" cy="95" r="1"/><circle cx="1010" cy="54" r="1.2"/><circle cx="1100" cy="105" r="1"/></g>
+<text x="600" y="76" fill="#F4F2ED" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="3">LEARN BY BUILDING · SHIP WITH PURPOSE</text>
+<text x="600" y="108" fill="#A8B5C1" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="4">CLOUD / DEVOPS / AUTOMATION / AGENTIC AI</text>
+<path d="M70 128H1130" stroke="url(#line)" stroke-width="1"/>
+<rect x="1" y="1" width="1198" height="148" rx="17" fill="none" stroke="#C6A66B" stroke-opacity=".22"/>
+</svg>
