@@ -97,7 +97,7 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,swift,ts,js,bash,powershell&perline=10&size=32" alt="C, C++, Go, Python, Java, Swift, TypeScript, JavaScript, Bash, PowerShell" />
+<img src="https://skillicons.dev/icons?i=c,cpp,go,py,ts,js,bash,powershell&perline=10&size=32" alt="C, C++, Go, Python, Java, Swift, TypeScript, JavaScript, Bash, PowerShell" />
 </details>
 
 </details>
@@ -154,7 +154,7 @@ Experiments with automating build and delivery workflows.
 <details open>
 <summary><b>🖥️ Operating Systems & Virtualization</b></summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,apple,windows,vmware&perline=8&size=32" alt="Linux, Ubuntu, Kali, Arch, Debian, macOS, Windows, VMware" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,windows,vmware&perline=8&size=32" alt="Linux, Ubuntu, Kali, Arch, Windows, VMware" />
 </details>
 
 <details open>
