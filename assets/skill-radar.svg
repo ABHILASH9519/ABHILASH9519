@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270" role="img" aria-label="Skill radar">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A8C0CE"/><stop offset=".55" stop-color="#C6A66B"/><stop offset="1" stop-color="#A6C7B5"/></linearGradient></defs>
+<rect width="1100" height="270" rx="18" fill="#080D17" stroke="#344252"/>
+<g font-family="JetBrains Mono,monospace" font-size="16" fill="#DCE5EA">
+<text x="38" y="43">CLOUD &amp; DEVOPS</text><text x="38" y="96">INFRASTRUCTURE AUTOMATION</text><text x="38" y="149">SOFTWARE ENGINEERING</text><text x="38" y="202">AGENTIC AI &amp; ML</text>
+</g>
+<g fill="#182536"><rect x="390" y="26" width="630" height="19" rx="9"/><rect x="390" y="79" width="630" height="19" rx="9"/><rect x="390" y="132" width="630" height="19" rx="9"/><rect x="390" y="185" width="630" height="19" rx="9"/></g>
+<g fill="url(#g)"><rect x="390" y="26" width="535" height="19" rx="9"/><rect x="390" y="79" width="485" height="19" rx="9"/><rect x="390" y="132" width="460" height="19" rx="9"/><rect x="390" y="185" width="410" height="19" rx="9"/></g>
+<g font-family="JetBrains Mono,monospace" font-size="15" fill="#C6A66B" text-anchor="end"><text x="1060" y="42">FOCUS</text><text x="1060" y="95">FOCUS</text><text x="1060" y="148">FOCUS</text><text x="1060" y="201">EXPLORING</text></g>
+<text x="38" y="244" font-family="Arial,sans-serif" font-size="12" fill="#91A3B2">Focus areas are qualitative, not measured proficiency scores.</text>
+</svg>
