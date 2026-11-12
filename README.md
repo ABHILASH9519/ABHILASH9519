@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/glass-header.svg" width="100%" alt="Abhilash Sharma — Ion Matrix profile header" />
+<img src="./assets/glass-header.svg?v=ionmatrix-20261112" width="100%" alt="Abhilash Sharma — Ion Matrix profile header" />
 
-<img src="./assets/marquee.svg" width="100%" alt="Cloud, DevOps, automation, platform engineering and Agentic AI" />
+<img src="./assets/marquee.svg?v=ionmatrix-20261112" width="100%" alt="Cloud, DevOps, automation, platform engineering and Agentic AI" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=00B7FF&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=00B7FF)
@@ -16,7 +16,7 @@
 <div align="center">
 
 <img src="./assets/sec-whoami.svg" width="100%" alt="01 — whoami" />
-<img src="./assets/glass-about.svg" width="100%" alt="About Abhilash Sharma" />
+<img src="./assets/glass-about.svg?v=ionmatrix-20261112" width="100%" alt="About Abhilash Sharma" />
 
 </div>
 
@@ -36,7 +36,7 @@ I started with **Full-Stack Development** and grew into **Cloud Engineering, Dev
 <div align="center">
 
 <img src="./assets/sec-radar.svg" width="100%" alt="02 — current focus" />
-<img src="./assets/glass-radar.svg" width="100%" alt="Current focus: Generative AI, LLMs, Agentic workflows, RAG and multi-cloud application development" />
+<img src="./assets/glass-radar.svg?v=ionmatrix-20261112" width="100%" alt="Current focus: Generative AI, LLMs, Agentic workflows, RAG and multi-cloud application development" />
 
 </div>
 
@@ -45,7 +45,7 @@ I started with **Full-Stack Development** and grew into **Cloud Engineering, Dev
 <div align="center">
 
 <img src="./assets/sec-skillmap.svg" width="100%" alt="03 — skill matrix" />
-<img src="./assets/skill-matrix.svg" width="100%" alt="Technology and skill matrix" />
+<img src="./assets/skill-matrix.svg?v=ionmatrix-20261112" width="100%" alt="Technology and skill matrix" />
 
 </div>
 
@@ -163,6 +163,6 @@ I started with **Full-Stack Development** and grew into **Cloud Engineering, Dev
 
 <a href="https://www.buymeacoffee.com/_.tachyons._"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-05070D?style=for-the-badge&logo=buymeacoffee&logoColor=E2E8F0" alt="Buy Me A Coffee" /></a>
 
-<img src="./assets/glass-footer.svg" width="100%" alt="Learn by building, solve real problems, ship with purpose" />
+<img src="./assets/glass-footer.svg?v=ionmatrix-20261112" width="100%" alt="Learn by building, solve real problems, ship with purpose" />
 
 </div>
