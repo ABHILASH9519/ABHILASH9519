@@ -2,34 +2,34 @@
 <title id="title">Abhilash Sharma — MonoSteel</title>
 <desc id="desc">A monochrome steel and graphite profile banner with diagonal brushed-metal accents and a geometric monogram.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#030508"/><stop offset=".55" stop-color="#0b1018"/><stop offset="1" stop-color="#171e29"/></linearGradient>
-  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset=".35" stop-color="#9aa7b8"/><stop offset=".7" stop-color="#e2e8f0"/><stop offset="1" stop-color="#64748b"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#64748b" stop-opacity="0"/><stop offset=".5" stop-color="#cbd5e1" stop-opacity=".8"/><stop offset="1" stop-color="#64748b" stop-opacity="0"/></linearGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#94a3b8" stroke-opacity=".07" stroke-width="1"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00080F"/><stop offset=".55" stop-color="#001B2B"/><stop offset="1" stop-color="#00283D"/></linearGradient>
+  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset=".35" stop-color="#9aa7b8"/><stop offset=".7" stop-color="#E6FFFF"/><stop offset="1" stop-color="#00B7FF"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00B7FF" stop-opacity="0"/><stop offset=".5" stop-color="#00F0FF" stop-opacity=".8"/><stop offset="1" stop-color="#00B7FF" stop-opacity="0"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#67E8F9" stroke-opacity=".07" stroke-width="1"/></pattern>
   <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
 <rect width="1500" height="420" rx="22" fill="url(#bg)"/>
 <rect width="1500" height="420" rx="22" fill="url(#grid)"/>
-<path d="M0 0H1500V420H0Z" fill="none" stroke="#64748b" stroke-opacity=".42"/>
+<path d="M0 0H1500V420H0Z" fill="none" stroke="#00B7FF" stroke-opacity=".42"/>
 <path d="M0 0L240 0L0 240Z" fill="#1e293b" opacity=".24"/>
 <path d="M1170 0H1500V330Z" fill="#334155" opacity=".16"/>
 <g opacity=".8">
-  <path d="M0 350L350 0H430L80 420H0Z" fill="#64748b" opacity=".14"/>
-  <path d="M1040 420L1460 0H1500V80L1160 420Z" fill="#94a3b8" opacity=".12"/>
-  <path d="M1120 420L1500 40V112L1192 420Z" fill="#cbd5e1" opacity=".08"/>
+  <path d="M0 350L350 0H430L80 420H0Z" fill="#00B7FF" opacity=".14"/>
+  <path d="M1040 420L1460 0H1500V80L1160 420Z" fill="#67E8F9" opacity=".12"/>
+  <path d="M1120 420L1500 40V112L1192 420Z" fill="#00F0FF" opacity=".08"/>
 </g>
 <path d="M64 70H420" stroke="url(#line)" stroke-width="2"/>
-<text x="68" y="105" fill="#94a3b8" font-size="17" letter-spacing="5">// NODE_ID: ABHILASH9519  ·  V2026.11</text>
+<text x="68" y="105" fill="#67E8F9" font-size="17" letter-spacing="5">// NODE_ID: ABHILASH9519  ·  V2026.11</text>
 <text x="64" y="218" fill="url(#steel)" font-size="76" font-weight="800" letter-spacing="1">ABHILASH SHARMA</text>
-<text x="68" y="270" fill="#cbd5e1" font-size="25" letter-spacing="8">SOFTWARE  //  CLOUD  //  DEVOPS  //  AGENTIC AI</text>
-<text x="68" y="335" fill="#94a3b8" font-size="18" letter-spacing="2">&gt; build.reliable_systems()  <tspan fill="#e2e8f0">[ ONLINE ]</tspan></text>
+<text x="68" y="270" fill="#00F0FF" font-size="25" letter-spacing="8">SOFTWARE  //  CLOUD  //  DEVOPS  //  AGENTIC AI</text>
+<text x="68" y="335" fill="#67E8F9" font-size="18" letter-spacing="2">&gt; build.reliable_systems()  <tspan fill="#E6FFFF">[ ONLINE ]</tspan></text>
 <g transform="translate(1120 210)" filter="url(#glow)">
   <path d="M-72 -82L0 -126L72 -82V2L0 46L-72 2Z" fill="none" stroke="url(#steel)" stroke-width="5"/>
-  <path d="M-45 -57L0 -85L45 -57V-8L0 20L-45 -8Z" fill="#0b1018" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M-45 -57L0 -85L45 -57V-8L0 20L-45 -8Z" fill="#001B2B" stroke="#67E8F9" stroke-width="2"/>
   <path d="M-29 0L0 -49L29 0M-17 -19H17" fill="none" stroke="url(#steel)" stroke-width="9" stroke-linecap="square"/>
-  <path d="M-104 -112L-80 -136M104 -112L80 -136M-104 32L-80 56M104 32L80 56" stroke="#64748b" stroke-width="3"/>
-  <circle r="148" fill="none" stroke="#64748b" stroke-opacity=".28" stroke-dasharray="3 10"/>
+  <path d="M-104 -112L-80 -136M104 -112L80 -136M-104 32L-80 56M104 32L80 56" stroke="#00B7FF" stroke-width="3"/>
+  <circle r="148" fill="none" stroke="#00B7FF" stroke-opacity=".28" stroke-dasharray="3 10"/>
 </g>
 <path d="M64 385H1436" stroke="url(#line)" stroke-width="2"/>
-<text x="1432" y="397" text-anchor="end" fill="#64748b" font-size="12" letter-spacing="4">MONOSTEEL / PROFILE SYSTEM</text>
+<text x="1432" y="397" text-anchor="end" fill="#00B7FF" font-size="12" letter-spacing="4">MONOSTEEL / PROFILE SYSTEM</text>
 </svg>
