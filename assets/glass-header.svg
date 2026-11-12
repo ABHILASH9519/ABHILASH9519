@@ -1,35 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="420" viewBox="0 0 1500 420" role="img" aria-labelledby="title desc">
-<title id="title">Abhilash Sharma — MonoSteel</title>
-<desc id="desc">A monochrome steel and graphite profile banner with diagonal brushed-metal accents and a geometric monogram.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="440" viewBox="0 0 1500 440" role="img" aria-labelledby="t d">
+<title id="t">Abhilash Sharma — Ion Matrix</title><desc id="d">Electric cyan neural network on a deep black matrix grid, with glowing data paths and a technical identity panel.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00080F"/><stop offset=".55" stop-color="#001B2B"/><stop offset="1" stop-color="#00283D"/></linearGradient>
-  <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset=".35" stop-color="#9aa7b8"/><stop offset=".7" stop-color="#E6FFFF"/><stop offset="1" stop-color="#00B7FF"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00B7FF" stop-opacity="0"/><stop offset=".5" stop-color="#00F0FF" stop-opacity=".8"/><stop offset="1" stop-color="#00B7FF" stop-opacity="0"/></linearGradient>
-  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#67E8F9" stroke-opacity=".07" stroke-width="1"/></pattern>
-  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#02040B"/><stop offset=".55" stop-color="#061326"/><stop offset="1" stop-color="#001D32"/></linearGradient>
+ <linearGradient id="cyan"><stop stop-color="#B9FBFF"/><stop offset=".45" stop-color="#00E5FF"/><stop offset="1" stop-color="#1677FF"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#16CFFF" stroke-opacity=".13"/></pattern>
+ <filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1500" height="420" rx="22" fill="url(#bg)"/>
-<rect width="1500" height="420" rx="22" fill="url(#grid)"/>
-<path d="M0 0H1500V420H0Z" fill="none" stroke="#00B7FF" stroke-opacity=".42"/>
-<path d="M0 0L240 0L0 240Z" fill="#1e293b" opacity=".24"/>
-<path d="M1170 0H1500V330Z" fill="#334155" opacity=".16"/>
-<g opacity=".8">
-  <path d="M0 350L350 0H430L80 420H0Z" fill="#00B7FF" opacity=".14"/>
-  <path d="M1040 420L1460 0H1500V80L1160 420Z" fill="#67E8F9" opacity=".12"/>
-  <path d="M1120 420L1500 40V112L1192 420Z" fill="#00F0FF" opacity=".08"/>
+<rect width="1500" height="440" rx="22" fill="url(#bg)"/><rect width="1500" height="440" rx="22" fill="url(#grid)"/>
+<g fill="none" stroke="#00DFFF" stroke-opacity=".48" stroke-width="1.5">
+<path d="M790 80L930 150L1080 85L1240 155L1390 80M790 80L860 245L1010 300L1160 245L1240 155L1390 260M930 150L1010 300L1080 85M1160 245L1390 260"/>
+<path d="M720 365L860 245L1010 300L1150 370L1390 260"/>
 </g>
-<path d="M64 70H420" stroke="url(#line)" stroke-width="2"/>
-<text x="68" y="105" fill="#67E8F9" font-size="17" letter-spacing="5">// NODE_ID: ABHILASH9519  ·  V2026.11</text>
-<text x="64" y="218" fill="url(#steel)" font-size="76" font-weight="800" letter-spacing="1">ABHILASH SHARMA</text>
-<text x="68" y="270" fill="#00F0FF" font-size="25" letter-spacing="8">SOFTWARE  //  CLOUD  //  DEVOPS  //  AGENTIC AI</text>
-<text x="68" y="335" fill="#67E8F9" font-size="18" letter-spacing="2">&gt; build.reliable_systems()  <tspan fill="#E6FFFF">[ ONLINE ]</tspan></text>
-<g transform="translate(1120 210)" filter="url(#glow)">
-  <path d="M-72 -82L0 -126L72 -82V2L0 46L-72 2Z" fill="none" stroke="url(#steel)" stroke-width="5"/>
-  <path d="M-45 -57L0 -85L45 -57V-8L0 20L-45 -8Z" fill="#001B2B" stroke="#67E8F9" stroke-width="2"/>
-  <path d="M-29 0L0 -49L29 0M-17 -19H17" fill="none" stroke="url(#steel)" stroke-width="9" stroke-linecap="square"/>
-  <path d="M-104 -112L-80 -136M104 -112L80 -136M-104 32L-80 56M104 32L80 56" stroke="#00B7FF" stroke-width="3"/>
-  <circle r="148" fill="none" stroke="#00B7FF" stroke-opacity=".28" stroke-dasharray="3 10"/>
+<g fill="#00E5FF" filter="url(#glow)">
+<circle cx="790" cy="80" r="5"/><circle cx="930" cy="150" r="5"/><circle cx="1080" cy="85" r="5"/><circle cx="1240" cy="155" r="6"/><circle cx="1390" cy="80" r="5"/><circle cx="860" cy="245" r="5"/><circle cx="1010" cy="300" r="6"/><circle cx="1160" cy="245" r="5"/><circle cx="1390" cy="260" r="6"/><circle cx="720" cy="365" r="4"/><circle cx="1150" cy="370" r="4"/>
 </g>
-<path d="M64 385H1436" stroke="url(#line)" stroke-width="2"/>
-<text x="1432" y="397" text-anchor="end" fill="#00B7FF" font-size="12" letter-spacing="4">MONOSTEEL / PROFILE SYSTEM</text>
+<g fill="none" stroke="url(#cyan)" stroke-width="2" opacity=".9"><circle cx="1100" cy="220" r="190" stroke-dasharray="2 14"><animateTransform attributeName="transform" type="rotate" from="0 1100 220" to="360 1100 220" dur="48s" repeatCount="indefinite"/></circle><circle cx="1100" cy="220" r="155" stroke-dasharray="80 22 3 22"><animateTransform attributeName="transform" type="rotate" from="360 1100 220" to="0 1100 220" dur="32s" repeatCount="indefinite"/></circle></g>
+<path d="M62 78H520" stroke="url(#cyan)" stroke-width="2"/><text x="64" y="112" fill="#69E8FF" font-size="16" letter-spacing="6" font-family="monospace">// ION MATRIX · PROFILE NODE 9519</text>
+<text x="60" y="224" fill="#E9FCFF" font-size="76" font-weight="800" letter-spacing="1" font-family="Arial,sans-serif">ABHILASH SHARMA</text>
+<text x="66" y="278" fill="#00E5FF" font-size="24" letter-spacing="7" font-family="monospace">CLOUD  /  DEVOPS  /  AUTOMATION  /  AGENTIC AI</text>
+<text x="66" y="350" fill="#B5D9E8" font-size="19" font-family="monospace">&gt; engineering resilient systems<span fill="#00E5FF">_</span></text>
+<rect x="62" y="382" width="420" height="34" rx="5" fill="#00DFFF" fill-opacity=".08" stroke="#00DFFF" stroke-opacity=".55"/><text x="78" y="405" fill="#69E8FF" font-size="13" letter-spacing="3" font-family="monospace">SYSTEM STATUS : ONLINE</text>
+<path d="M62 432H1438" stroke="#00DFFF" stroke-opacity=".6"/>
 </svg>
