@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/glass-header.svg" width="100%" alt="Abhilash Sharma — MonoSteel profile header" />
+<img src="./assets/glass-header.svg" width="100%" alt="Abhilash Sharma — Ion Matrix profile header" />
 
 <img src="./assets/marquee.svg" width="100%" alt="Cloud, DevOps, automation, platform engineering and Agentic AI" />
 
