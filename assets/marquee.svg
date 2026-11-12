@@ -1,21 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" font-family="'JetBrains Mono','Fira Code','SF Mono','Courier New',monospace">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00080F"/><stop offset="1" stop-color="#001B2B"/></linearGradient>
-<linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#E6FFFF"/><stop offset=".5" stop-color="#00F0FF"/><stop offset="1" stop-color="#00B7FF"/></linearGradient>
-<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00B7FF"/><stop offset="1" stop-color="#00B7FF" stop-opacity="0"/></linearGradient>
-<radialGradient id="planet" cx=".35" cy=".3" r=".9"><stop offset="0" stop-color="#E6FFFF"/><stop offset=".35" stop-color="#00F0FF"/><stop offset="1" stop-color="#001B2B"/></radialGradient>
-<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#00B7FF" stroke-opacity=".10"/></pattern>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<style>
-.blink{animation:blink 1s steps(2) infinite}@keyframes blink{50%{opacity:0}}
-.tw{animation:tw 3s ease-in-out infinite}@keyframes tw{50%{opacity:.15}}
-.pulse{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{50%{opacity:.35}}
-.flow{stroke-dasharray:8 10;animation:flow 1.6s linear infinite}@keyframes flow{to{stroke-dashoffset:-36}}
-</style>
-<rect width="1200" height="56" fill="url(#bg)"/>
-<rect width="1200" height="56" fill="url(#grid)"/>
-<clipPath id="c"><rect width="1200" height="56"/></clipPath>
-<g clip-path="url(#c)"><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-2167.2 0" dur="38s" repeatCount="indefinite"/><text x="0.0" y="35" font-size="18" letter-spacing="1" fill="#00F0FF" xml:space="preserve">AWS   ◆   KUBERNETES   ◆   TERRAFORM   ◆   DOCKER   ◆   CI/CD   ◆   PLATFORM ENGINEERING   ◆   MLOPS   ◆   AGENTIC AI   ◆   CYBERSECURITY   ◆   WEB3   ◆   AUTOMATION   ◆   </text><text x="2167.2" y="35" font-size="18" letter-spacing="1" fill="#00F0FF" xml:space="preserve">AWS   ◆   KUBERNETES   ◆   TERRAFORM   ◆   DOCKER   ◆   CI/CD   ◆   PLATFORM ENGINEERING   ◆   MLOPS   ◆   AGENTIC AI   ◆   CYBERSECURITY   ◆   WEB3   ◆   AUTOMATION   ◆   </text><text x="4334.4" y="35" font-size="18" letter-spacing="1" fill="#00F0FF" xml:space="preserve">AWS   ◆   KUBERNETES   ◆   TERRAFORM   ◆   DOCKER   ◆   CI/CD   ◆   PLATFORM ENGINEERING   ◆   MLOPS   ◆   AGENTIC AI   ◆   CYBERSECURITY   ◆   WEB3   ◆   AUTOMATION   ◆   </text></g></g>
-<path d="M0 1H1200M0 55H1200" stroke="#00B7FF" stroke-opacity=".6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="58" viewBox="0 0 1200 58">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#02040B"/><stop offset="1" stop-color="#061326"/></linearGradient><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#00DFFF" stroke-opacity=".13"/></pattern></defs>
+<rect width="1200" height="58" fill="url(#b)"/><rect width="1200" height="58" fill="url(#g)"/>
+<g font-family="monospace" font-size="17" letter-spacing="2" fill="#52E9FF"><animateTransform attributeName="transform" type="translate" from="0 0" to="-1800 0" dur="32s" repeatCount="indefinite"/><text x="0" y="36">◆ ION MATRIX  /  AWS  /  KUBERNETES  /  TERRAFORM  /  DOCKER  /  CI-CD  /  PLATFORM ENGINEERING  /  AGENTIC AI  /  AUTOMATION  /  OBSERVABILITY  /  </text><text x="1800" y="36">◆ ION MATRIX  /  AWS  /  KUBERNETES  /  TERRAFORM  /  DOCKER  /  CI-CD  /  PLATFORM ENGINEERING  /  AGENTIC AI  /  AUTOMATION  /  OBSERVABILITY  /  </text></g>
+<path d="M0 1H1200M0 57H1200" stroke="#00DFFF" stroke-opacity=".7"/></svg>
