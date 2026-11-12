@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update themed streak from GitHub contribution data
-        run: python scripts/contrib_calendar.py ${{ github.repository_owner }} --theme mono-steel --out /tmp/contrib-calendar.svg --streak-out assets/streak.svg
+        run: python scripts/contrib_calendar.py ${{ github.repository_owner }} --theme ion-matrix --out /tmp/contrib-calendar.svg --streak-out assets/streak.svg
       - name: Commit streak if changed
         run: |
           git config user.name "github-actions[bot]"
