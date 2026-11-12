@@ -4,9 +4,9 @@
 
 <img src="./assets/marquee.svg" width="100%" alt="Cloud, DevOps, automation, platform engineering and Agentic AI" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=64748B&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
-![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=starship&logoColor=FFFFFF&labelColor=05070D&color=E2E8F0)
+![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=00B7FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=00B7FF)
+![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=starship&logoColor=FFFFFF&labelColor=05070D&color=00F0FF)
 ![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05070D?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=05070D)
 
 </div>
@@ -125,8 +125,8 @@ I started with **Full-Stack Development** and grew into **Cloud Engineering, Dev
 <div align="center">
 
 <img src="./assets/sec-stats.svg" width="100%" alt="05 — GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8&icon_color=CBD5E1" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8" width="49%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_border=true&bg_color=00080F&title_color=00F0FF&text_color=67E8F9&icon_color=00B7FF" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&hide_border=true&bg_color=00080F&title_color=00F0FF&text_color=67E8F9" width="49%" alt="Most used languages" />
 
 </div>
 
