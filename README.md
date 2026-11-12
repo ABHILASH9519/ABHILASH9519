@@ -1,200 +1,168 @@
-<!-- AURORA GLASS PROFILE v2 — orbital steel visual system -->
 <div align="center">
 
-<img src="./assets/edolus-space-hero.svg" width="100%" alt="Abhilash Sharma — orbital space profile banner" />
+<img src="./assets/glass-header.svg" width="100%" alt="Abhilash Sharma — MonoSteel profile header" />
 
-<a href="https://github.com/ABHILASH9519">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=C6A66B&center=true&vCenter=true&width=720&height=44&lines=Building+reliable+cloud+%26+DevOps+systems;Automating+infrastructure+with+purpose;Exploring+Agentic+AI+and+intelligent+workflows;Learn+by+building.+Ship+with+purpose." alt="Profile tagline animation" />
-</a>
+<img src="./assets/marquee.svg" width="100%" alt="Cloud, DevOps, automation, platform engineering and Agentic AI" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=C6A66B&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=white&labelColor=080D17&color=A8C0CE)
-![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=github&logoColor=white&labelColor=080D17&color=E1C49A)
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-080D17?style=for-the-badge&logo=statuspage&logoColor=A6C7B5)
-
-<br/>
-
-<a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-080D17?style=for-the-badge&logo=googlechrome&logoColor=A8C0CE" alt="Portfolio"/></a>
-<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080D17?style=for-the-badge&logo=gmail&logoColor=E1C49A" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-080D17?style=for-the-badge&logo=linkedin&logoColor=A8C0CE" alt="LinkedIn"/></a>
-<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-080D17?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
+![Profile Views](https://komarev.com/ghpvc/?username=ABHILASH9519&label=PROFILE+VIEWS&color=64748B&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/ABHILASH9519?style=for-the-badge&logo=github&logoColor=E2E8F0&labelColor=05070D&color=64748B)
+![Stars](https://img.shields.io/github/stars/ABHILASH9519?style=for-the-badge&logo=starship&logoColor=FFFFFF&labelColor=05070D&color=E2E8F0)
+![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-05070D?style=for-the-badge&logo=statuspage&logoColor=4ADE80&labelColor=05070D)
 
 </div>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:A8C0CE,50:C6A66B,100:E1C49A" width="100%" alt="orbital divider" />
-
-## ⟡ 01 / WHOAMI
-
-I started with **Full-Stack Development** and grew especially interested in **Cloud Engineering, DevOps, Infrastructure Automation and reliable software systems**. I enjoy building, testing and documenting practical solutions, and I’m increasingly exploring **Generative AI and Agentic workflows**.
-
-<sub>☁️ CLOUD ENGINEERING　·　⚙️ DEVOPS　·　🔁 AUTOMATION　·　🤖 AGENTIC AI　·　🛠️ SOFTWARE ENGINEERING</sub>
-
-## ⟡ 02 / WHAT I'M BUILDING
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ [CloudSentinels](https://github.com/ABHILASH9519/cloudsentinels)
-Exploring cloud incident handling, event-driven automation and operational visibility with AWS. The remediation workflow is being developed incrementally; live cluster remediation is not yet enabled.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌙 [LunarReg Workbench](https://github.com/ABHILASH9519/lunarreg-workbench)
-A computer-vision platform for registering and comparing lunar images across missions, sensors and imaging conditions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 [Sahaara](https://github.com/ABHILASH9519/sahaara)
-A cross-platform mobile-app project focused on building practical Android and iOS experiences.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 [CI/CD Automator](https://github.com/ABHILASH9519/CI-CD-Automator)
-Experiments with automating build, validation and delivery workflows.
-
-</td>
-</tr>
-</table>
-
-> I care about making projects useful beyond a demo: reproducible setup, working features, clear tests and documentation that reflects the implementation.
-
-## ⟡ 03 / SKILL RADAR
-
-<div align="center">
-<img src="./assets/skill-radar.svg" width="100%" alt="Qualitative focus areas: Cloud and DevOps, infrastructure automation, software engineering, and Agentic AI" />
-</div>
-
-## ⟡ 04 / TECHNICAL STACK
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,go,py,ts,js,bash,powershell&perline=10&size=32" alt="C, C++, Go, Python, Java, Swift, TypeScript, JavaScript, Bash, PowerShell" />
-</details>
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, DevOps & Platforms</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&perline=14&size=32" alt="AWS, Azure, GCP, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab, Ansible, Nginx, Cloudflare, Vercel, Netlify" />
-</details>
-
-<details open>
-<summary><b>🤖 AI, ML & Agentic AI</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=2&size=32" alt="PyTorch, TensorFlow" />
-<img src="https://cdn.simpleicons.org/langchain/4A9EFF" width="32" height="32" alt="LangChain" />
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="32" height="32" alt="Hugging Face" />
-<img src="https://cdn.simpleicons.org/anthropic/FFFFFF" width="32" height="32" alt="Anthropic" />
-<img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="32" height="32" alt="Ollama" />
-<br/>
-<sub>LLM applications · RAG pipelines · tool-using agents · MCP integrations · evaluation and deployment</sub>
-</details>
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Messaging</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&perline=10&size=32" alt="MySQL, PostgreSQL, MongoDB, Redis, Kafka, SQLite, Supabase, Firebase, Elasticsearch, RabbitMQ" />
-</details>
-
-<details open>
-<summary><b>🌐 Backend, Frameworks & Web</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,react,nextjs,vite,tailwind,html,css&perline=11&size=32" alt="Node.js, Express, FastAPI, Django, Spring, React, Next.js, Vite, Tailwind CSS, HTML, CSS" />
-</details>
-
-</details>
-
-<details open>
-<summary><b>🧪 Version Control, Build & Testing</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&perline=10&size=32" alt="Git, GitHub, GitLab, Maven, Gradle, npm, Postman, Selenium, Jest, Pytest" />
-</details>
-
-<details open>
-<summary><b>📈 Monitoring, IaC & Automation</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&perline=5&size=32" alt="Prometheus, Grafana, Terraform, Ansible, Bash" />
-<img src="https://img.shields.io/badge/Datadog-080D17?style=for-the-badge&logo=datadog&logoColor=A78BFA" alt="Datadog"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-080D17?style=for-the-badge&logo=opentelemetry&logoColor=D8B77B" alt="OpenTelemetry"/>
-<img src="https://img.shields.io/badge/Elastic_Stack-080D17?style=for-the-badge&logo=elastic&logoColor=A8C0CE" alt="Elastic Stack"/>
-</details>
-
-<details open>
-<summary><b>🖥️ Operating Systems & Virtualization</b></summary>
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,windows,vmware&perline=8&size=32" alt="Linux, Ubuntu, Kali, Arch, Windows, VMware" />
-</details>
-
-<details open>
-<summary><b>🧰 Development Tools</b></summary>
-<br/>
-<a href="https://www.jetbrains.com/go/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/goland/goland.svg" width="50" height="50" alt="GoLand" /></a>
-<a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/intellij-idea/intellij-idea.svg" width="50" height="50" alt="IntelliJ IDEA" /></a>
-<a href="https://www.jetbrains.com/webstorm/"><img src="https://raw.githubusercontent.com/JetBrains/logos/master/web/webstorm/webstorm.svg" width="50" height="50" alt="WebStorm" /></a>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,anaconda,vim,neovim,figma,matlab,ps,postman,md&perline=10&size=50" alt="VS Code, Android Studio, Anaconda, Vim, Neovim, Figma, MATLAB, Photoshop, Postman, Markdown" />
-<img src="https://cdn.simpleicons.org/ngrok/white" width="50" height="50" alt="ngrok" />
-</details>
-
-</details>
-
-<details open>
-<summary><b>🤝 Collaboration & Project Management</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Atlassian-080D17?style=for-the-badge&logo=atlassian&logoColor=A8C0CE" alt="Atlassian"/>
-<img src="https://img.shields.io/badge/Jira-080D17?style=for-the-badge&logo=jira&logoColor=A8C0CE" alt="Jira"/>
-<img src="https://img.shields.io/badge/Slack-080D17?style=for-the-badge&logo=slack&logoColor=E1C49A" alt="Slack"/>
-</details>
-
-
-## ⟡ 05 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABHILASH9519&theme=github_dark" width="100%" alt="GitHub profile summary"/>
-
-<table>
-<tr>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080D1700&title_color=C6A66B&text_color=9AA9B7&icon_color=A8C0CE&ring_color=E1C49A" width="100%" alt="GitHub stats"/></td>
-<td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&langs_count=8&hide_border=true&bg_color=080D1700&title_color=C6A66B&text_color=9AA9B7" width="100%" alt="Top languages"/></td>
-</tr>
-</table>
-
-<a href="https://github.com/ABHILASH9519?tab=overview"><img src="https://img.shields.io/badge/COMMITS-080D17?style=for-the-badge&logo=git&logoColor=A8C0CE" alt="Commits"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+reviewed-by%3AABHILASH9519"><img src="https://img.shields.io/badge/CODE_REVIEWS-080D17?style=for-the-badge&logo=github&logoColor=C6A66B" alt="Reviews"/></a>
-<a href="https://github.com/ABHILASH9519?tab=issues"><img src="https://img.shields.io/badge/ISSUES-080D17?style=for-the-badge&logo=github&logoColor=E1C49A" alt="Issues"/></a>
-<a href="https://github.com/pulls?q=is%3Apr+author%3AABHILASH9519"><img src="https://img.shields.io/badge/PULL_REQUESTS-080D17?style=for-the-badge&logo=gitpullrequest&logoColor=A6C7B5" alt="Pull requests"/></a>
+<img src="./assets/sec-whoami.svg" width="100%" alt="01 — whoami" />
+<img src="./assets/glass-about.svg" width="100%" alt="About Abhilash Sharma" />
 
 </div>
 
-## ⟡ 06 / CONTRIBUTION STREAK
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHILASH9519&theme=github_dark&background=00000000&ring=C6A66B&fire=E1C49A&currStreakLabel=A8C0CE&currStreakNum=C6A66B&sideLabels=9AA9B7&dates=9AA9B7&hide_border=true" width="100%" alt="Contribution streak"/>
-</div>
-
-## ⟡ 07 / CONNECT
+I started with **Full-Stack Development** and grew into **Cloud Engineering, DevOps, Infrastructure Automation and scalable systems**. I enjoy building reliable software, streamlining delivery workflows, and exploring how **Generative AI and Agentic systems** can solve practical engineering problems.
 
 <div align="center">
 
-<a href="https://github.com/ABHILASH9519"><img src="https://img.shields.io/badge/GITHUB-080D17?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://img.shields.io/badge/LINKEDIN-080D17?style=for-the-badge&logo=linkedin&logoColor=A8C0CE" alt="LinkedIn"/></a>
-<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://img.shields.io/badge/EMAIL-080D17?style=for-the-badge&logo=gmail&logoColor=E1C49A" alt="Email"/></a>
-<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://img.shields.io/badge/DEV.TO-080D17?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to"/></a>
-<a href="https://abhilash9519.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-080D17?style=for-the-badge&logo=googlechrome&logoColor=A8C0CE" alt="Portfolio"/></a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-05070D?style=for-the-badge&logo=googlechrome&logoColor=E2E8F0)](https://abhilash9519.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-05070D?style=for-the-badge&logo=gmail&logoColor=94A3B8)](mailto:Abhilashsharma783@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-05070D?style=for-the-badge&logo=linkedin&logoColor=94A3B8)](https://www.linkedin.com/in/abhilash-sharma-a72781290/)
+[![DEV](https://img.shields.io/badge/DEV.TO-05070D?style=for-the-badge&logo=devdotto&logoColor=E2E8F0)](https://dev.to/abhilash_sharma_ed042f65e)
 
 </div>
 
-<img src="./assets/edolus-space-footer.svg" width="100%" alt="Learn by building, ship with purpose — Cloud, DevOps, Automation and Agentic AI" />
+<br/>
+
+<div align="center">
+
+<img src="./assets/sec-radar.svg" width="100%" alt="02 — current focus" />
+<img src="./assets/glass-radar.svg" width="100%" alt="Current focus: Generative AI, LLMs, Agentic workflows, RAG and multi-cloud application development" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/sec-skillmap.svg" width="100%" alt="03 — skill matrix" />
+<img src="./assets/skill-matrix.svg" width="100%" alt="Technology and skill matrix" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="./assets/sec-techstack.svg" width="100%" alt="04 — technology stack" />
+</div>
+
+<img src="./assets/cat-01.svg" width="100%" alt="01 — Programming Languages" />
+<p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark" /></p>
+
+<img src="./assets/cat-02.svg" width="100%" alt="02 — Cloud and DevOps" />
+<p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/ArgoCD-05070D?style=for-the-badge&logo=argo&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Helm-05070D?style=for-the-badge&logo=helm&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Istio-05070D?style=for-the-badge&logo=istio&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Vault-05070D?style=for-the-badge&logo=vault&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Pulumi-05070D?style=for-the-badge&logo=pulumi&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/SonarQube-05070D?style=for-the-badge&logo=sonarqube&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Trivy-05070D?style=for-the-badge&logo=aquasecurity&logoColor=E2E8F0" />
+</p>
+
+<img src="./assets/cat-03.svg" width="100%" alt="03 — AI, ML and Agentic AI" />
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logo=langchain&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logo=langchain&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/HuggingFace-05070D?style=for-the-badge&logo=huggingface&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Anthropic_Claude-05070D?style=for-the-badge&logo=anthropic&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/MCP-05070D?style=for-the-badge&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/MLflow-05070D?style=for-the-badge&logo=mlflow&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Ollama-05070D?style=for-the-badge&logo=ollama&logoColor=FFFFFF" />
+</p>
+
+<img src="./assets/cat-04.svg" width="100%" alt="04 — Databases and Messaging" />
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,kafka,sqlite,supabase,firebase,elasticsearch,rabbitmq&theme=dark" /></p>
+
+<img src="./assets/cat-05.svg" width="100%" alt="05 — Backend and Web Development" />
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,spring,graphql,react,nextjs,angular,vue,vite,tailwind,bootstrap,html,css&theme=dark" /></p>
+
+<img src="./assets/cat-06.svg" width="100%" alt="06 — Version Control, Build and Testing" />
+<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,gradle,npm,postman,selenium,jest,pytest&theme=dark" /></p>
+
+<img src="./assets/cat-07.svg" width="100%" alt="07 — Monitoring, IaC and Automation" />
+<p><img src="https://skillicons.dev/icons?i=prometheus,grafana,terraform,ansible,bash&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/Datadog-05070D?style=for-the-badge&logo=datadog&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/OpenTelemetry-05070D?style=for-the-badge&logo=opentelemetry&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Loki-05070D?style=for-the-badge&logo=grafana&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/ELK-05070D?style=for-the-badge&logo=elastic&logoColor=E2E8F0" />
+</p>
+
+<img src="./assets/cat-08.svg" width="100%" alt="08 — Operating Systems and Virtualization" />
+<p><img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,debian,macos,windows,vmware&theme=dark" /></p>
+
+<img src="./assets/cat-09.svg" width="100%" alt="09 — Development Tools and Platforms" />
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,androidstudio,flutter,vim,neovim,figma,matlab,ps,postman,md&theme=dark" /></p>
+<p>
+<img src="https://img.shields.io/badge/GoLand-05070D?style=for-the-badge&logo=goland&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Anaconda-05070D?style=for-the-badge&logo=anaconda&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/ngrok-05070D?style=for-the-badge&logo=ngrok&logoColor=E2E8F0" />
+<img src="https://img.shields.io/badge/Termius-05070D?style=for-the-badge&logo=termius&logoColor=E2E8F0" />
+</p>
+
+<img src="./assets/cat-10.svg" width="100%" alt="10 — Collaboration and Project Management" />
+<p>
+<img src="https://img.shields.io/badge/Atlassian-05070D?style=for-the-badge&logo=atlassian&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Jira-05070D?style=for-the-badge&logo=jira&logoColor=94A3B8" />
+<img src="https://img.shields.io/badge/Slack-05070D?style=for-the-badge&logo=slack&logoColor=E2E8F0" />
+</p>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/sec-stats.svg" width="100%" alt="05 — GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABHILASH9519&show_icons=true&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8&icon_color=CBD5E1" width="49%" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHILASH9519&layout=compact&hide_border=true&bg_color=05070D&title_color=E2E8F0&text_color=94A3B8" width="49%" alt="Most used languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/sec-streak.svg" width="100%" alt="06 — Contribution streak" />
+<img src="./assets/streak.svg" width="100%" alt="Contribution streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/sec-quote.svg" width="100%" alt="07 — Developer quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer quote" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/sec-connect.svg" width="100%" alt="08 — Connect" />
+
+<a href="https://github.com/ABHILASH9519"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/abhilash-sharma-a72781290/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:Abhilashsharma783@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://dev.to/abhilash_sharma_ed042f65e"><img src="https://skillicons.dev/icons?i=devto&theme=dark" height="40" alt="DEV Community"/></a>
+
+<br/><br/>
+
+<a href="https://www.buymeacoffee.com/_.tachyons._"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-05070D?style=for-the-badge&logo=buymeacoffee&logoColor=E2E8F0" alt="Buy Me A Coffee" /></a>
+
+<img src="./assets/glass-footer.svg" width="100%" alt="Learn by building, solve real problems, ship with purpose" />
+
+</div>
