@@ -56,7 +56,7 @@ I started with **Full-Stack Development** and grew into **Cloud Engineering, Dev
 </div>
 
 <img src="./assets/cat-01.svg" width="100%" alt="01 — Programming Languages" />
-<p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,kotlin,swift,dart,rust,ts,js,bash,powershell&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,go,py,java,ts,js,bash,powershell&theme=dark" /></p>
 
 <img src="./assets/cat-02.svg" width="100%" alt="02 — Cloud and DevOps" />
 <p><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,githubactions,gitlab,ansible,nginx,cloudflare,vercel,netlify&theme=dark" /></p>
